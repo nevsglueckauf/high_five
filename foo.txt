@@ -1,0 +1,11 @@
+
+
+https://www.edeka.de/api/market-gateway?marketId={}
+
+
+1005026
+
+
+try this:::
+
+https://www.edeka.de/marktsuche.jsp#/?searchstring={Bochum}

@@ -1,0 +1,342 @@
+[
+  {
+    "Name":"Edeka",
+    "Kette":"EDEKA",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4473934,
+    "Lon":6.6326736
+  },
+  {
+    "Name":"Rewe",
+    "Kette":"Rewe",
+    "Straße":"Markt",
+    "Hausnummer":"1",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4891608,
+    "Lon":6.6027055
+  },
+  {
+    "Name":"Edeka Gerdes",
+    "Kette":"Edeka",
+    "Straße":"Kurt-Schumacher-Allee",
+    "Hausnummer":"32",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4844965,
+    "Lon":6.6162591
+  },
+  {
+    "Name":"Edeka",
+    "Kette":"Edeka",
+    "Straße":"Homberger Straße",
+    "Hausnummer":"329-333",
+    "Postleitzahl":"47443",
+    "Stadt":"Moers",
+    "Lat":51.4499829,
+    "Lon":6.6692235
+  },
+  {
+    "Name":"Edeka Paschmann",
+    "Kette":null,
+    "Straße":"Römerstraße",
+    "Hausnummer":"430",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4419576,
+    "Lon":6.66202
+  },
+  {
+    "Name":"Aldi Süd",
+    "Kette":"Aldi Süd",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4163383,
+    "Lon":6.5937889
+  },
+  {
+    "Name":"Grand Markt",
+    "Kette":null,
+    "Straße":"Leipziger Straße",
+    "Hausnummer":"3",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4410171,
+    "Lon":6.6437104
+  },
+  {
+    "Name":"Reformhaus Kaubisch",
+    "Kette":null,
+    "Straße":"Friedrichstraße",
+    "Hausnummer":"61",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4525461,
+    "Lon":6.6269057
+  },
+  {
+    "Name":"Bioladen XXL",
+    "Kette":null,
+    "Straße":"Lintforter Straße",
+    "Hausnummer":"11",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4894862,
+    "Lon":6.5893115
+  },
+  {
+    "Name":"Edeka",
+    "Kette":"Edeka",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4135757,
+    "Lon":6.5931669
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":"Blücherstraße",
+    "Hausnummer":"13",
+    "Postleitzahl":"47443",
+    "Stadt":"Moers",
+    "Lat":51.4597075,
+    "Lon":6.6484971
+  },
+  {
+    "Name":"Aldi Süd",
+    "Kette":"Aldi Süd",
+    "Straße":"Orsoyer Allee",
+    "Hausnummer":"1b",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.479969,
+    "Lon":6.6333682
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":"Kampstraße",
+    "Hausnummer":"2a",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4701039,
+    "Lon":6.630743
+  },
+  {
+    "Name":"EDEKA GERDES",
+    "Kette":"EDEKA",
+    "Straße":"Edekaplatz",
+    "Hausnummer":"12",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4711717,
+    "Lon":6.6328269
+  },
+  {
+    "Name":"Kaas Frischdienst",
+    "Kette":null,
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4901578,
+    "Lon":6.6008746
+  },
+  {
+    "Name":"Moerser Tafel",
+    "Kette":null,
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4662435,
+    "Lon":6.634661
+  },
+  {
+    "Name":"Edeka Müser",
+    "Kette":"EDEKA",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4266018,
+    "Lon":6.65883
+  },
+  {
+    "Name":"ALDI Süd",
+    "Kette":"ALDI Süd",
+    "Straße":"Düsseldorfer Straße",
+    "Hausnummer":"336-338",
+    "Postleitzahl":"47447",
+    "Stadt":"Moers",
+    "Lat":51.4201273,
+    "Lon":6.6546194
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4493612,
+    "Lon":6.6760848
+  },
+  {
+    "Name":"Kaufland",
+    "Kette":"Kaufland",
+    "Straße":"Hülsdonker Straße",
+    "Hausnummer":"86",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4521162,
+    "Lon":6.6126954
+  },
+  {
+    "Name":"Lidl",
+    "Kette":"Lidl",
+    "Straße":"Hülsdonker Straße",
+    "Hausnummer":"110",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4518218,
+    "Lon":6.6100039
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":"Nieper Straße",
+    "Hausnummer":"1",
+    "Postleitzahl":"47447",
+    "Stadt":"Moers",
+    "Lat":51.4131897,
+    "Lon":6.5943081
+  },
+  {
+    "Name":"ALDI Süd",
+    "Kette":"ALDI Süd",
+    "Straße":"Uerdinger Straße",
+    "Hausnummer":"67",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4456327,
+    "Lon":6.6345325
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":"Düsseldorfer Straße",
+    "Hausnummer":"491",
+    "Postleitzahl":"47447",
+    "Stadt":"Moers",
+    "Lat":51.409266,
+    "Lon":6.6631853
+  },
+  {
+    "Name":"Aldi Süd",
+    "Kette":"Aldi Süd",
+    "Straße":"Drennesweg",
+    "Hausnummer":"3",
+    "Postleitzahl":"47445",
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4773588,
+    "Lon":6.6051736
+  },
+  {
+    "Name":"Lidl",
+    "Kette":"Lidl",
+    "Straße":"Franz-Haniel-Straße",
+    "Hausnummer":"22",
+    "Postleitzahl":"47443",
+    "Stadt":"Moers",
+    "Lat":51.4548302,
+    "Lon":6.6657358
+  },
+  {
+    "Name":"REWE",
+    "Kette":"REWE",
+    "Straße":null,
+    "Hausnummer":null,
+    "Postleitzahl":null,
+    "Stadt":"Bad Bramstedt",
+    "Lat":51.4462118,
+    "Lon":6.6340673
+  },
+  {
+    "Name":"Lidl",
+    "Kette":"Lidl",
+    "Straße":"Römerstraße",
+    "Hausnummer":"446",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4430456,
+    "Lon":6.6626731
+  },
+  {
+    "Name":"Lidl",
+    "Kette":"Lidl",
+    "Straße":"Klever Straße",
+    "Hausnummer":"46",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4563212,
+    "Lon":6.6376708
+  },
+  {
+    "Name":"ALDI Süd",
+    "Kette":"ALDI Süd",
+    "Straße":"Baustraße",
+    "Hausnummer":"27",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.4560424,
+    "Lon":6.63537
+  },
+  {
+    "Name":"ALDI Süd",
+    "Kette":"ALDI Süd",
+    "Straße":"Franz-Haniel-Straße",
+    "Hausnummer":"90",
+    "Postleitzahl":"47443",
+    "Stadt":"Moers",
+    "Lat":51.4556353,
+    "Lon":6.6679053
+  },
+  {
+    "Name":"PENNY",
+    "Kette":"PENNY",
+    "Straße":"Homberger Straße",
+    "Hausnummer":"115",
+    "Postleitzahl":"47441",
+    "Stadt":"Moers",
+    "Lat":51.450637,
+    "Lon":6.6437425
+  },
+  {
+    "Name":"Netto Marken-Discount",
+    "Kette":"Netto Marken-Discount",
+    "Straße":"Markt",
+    "Hausnummer":"2",
+    "Postleitzahl":"47445",
+    "Stadt":"Moers",
+    "Lat":51.4894522,
+    "Lon":6.6027243
+  },
+  {
+    "Name":"Kaufland",
+    "Kette":"Kaufland",
+    "Straße":"Römerstraße",
+    "Hausnummer":"570",
+    "Postleitzahl":"47443",
+    "Stadt":"Moers",
+    "Lat":51.4549393,
+    "Lon":6.6582203
+  }
+]
