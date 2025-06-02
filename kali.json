@@ -1,0 +1,408 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-06-02T06:50:44Z",
+    "timestamp_areas_base": "2025-05-25T01:55:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1828915359,
+  "lat": 51.4998206,
+  "lon": 6.5490843,
+  "tags": {
+    "brand": "Kaufland",
+    "brand:wikidata": "Q685967",
+    "brand:wikipedia": "en:Kaufland",
+    "level": "0",
+    "name": "Kaufland",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "shop": "supermarket",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "Einkaufskörbe an der Information erhältlich."
+  }
+},
+{
+  "type": "node",
+  "id": 2758366156,
+  "lat": 51.5005751,
+  "lon": 6.5485999,
+  "tags": {
+    "name": "Demirel",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 91294153,
+  "center": {
+    "lat": 51.5095458,
+    "lon": 6.5457152
+  },
+  "nodes": [
+    1059914644,
+    1059914840,
+    1059914705,
+    1059914609,
+    1059914743,
+    1059914927,
+    1835583871,
+    1059914539,
+    1059914623,
+    1059914530,
+    1059914620,
+    1059914750,
+    1059914797,
+    1059914644
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:country": "DE",
+    "addr:housenumber": "5a",
+    "addr:postcode": "47475",
+    "addr:street": "Oststraße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "building": "retail",
+    "name": "ALDI Süd",
+    "operator": "ALDI",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/kamp-lintfort/oststrasse-5a",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 123142978,
+  "center": {
+    "lat": 51.5076131,
+    "lon": 6.5464135
+  },
+  "nodes": [
+    1374167543,
+    1374167544,
+    1374167471,
+    1374167474,
+    1374167451,
+    1374167445,
+    1374167406,
+    1374167399,
+    1374167440,
+    1374167442,
+    1374167543
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:housenumber": "28",
+    "addr:street": "Oststraße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "building": "retail",
+    "name": "Netto Marken-Discount",
+    "opening_hours": "Mo-Sa 07:00-21:00; PH,Su off",
+    "operator": "Netto",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Kamp-Lintfort/Oststr-28/6417/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 139369831,
+  "center": {
+    "lat": 51.4995079,
+    "lon": 6.5246268
+  },
+  "nodes": [
+    4139876406,
+    4139876403,
+    4139876411,
+    4139876412,
+    4139876415,
+    4139876410,
+    4139876407,
+    4139876406
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:country": "DE",
+    "addr:housenumber": "28",
+    "addr:postcode": "47475",
+    "addr:street": "Parkstraße",
+    "building": "retail",
+    "name": "Edeka",
+    "opening_hours": "Mo-Sa 07:00-22:00; PH,Su off",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 148614432,
+  "center": {
+    "lat": 51.5081842,
+    "lon": 6.5432957
+  },
+  "nodes": [
+    4116512526,
+    4116512508,
+    4116512507,
+    4116512502,
+    4116512503,
+    4116512500,
+    4116512499,
+    4116511985,
+    4116511986,
+    4116511984,
+    4116511980,
+    4116511981,
+    4116512417,
+    4116512416,
+    4116512412,
+    4116512413,
+    4116512398,
+    4116512397,
+    4116512391,
+    4116512392,
+    4116512167,
+    4116512166,
+    4116512162,
+    4116512163,
+    4116512132,
+    4116512421,
+    4116512419,
+    4116512423,
+    4116512425,
+    4116512430,
+    4116512429,
+    4116512431,
+    4116512434,
+    4116512433,
+    4116512492,
+    4116512493,
+    4116512498,
+    4116512497,
+    4116512552,
+    4116512554,
+    4116512560,
+    4116512559,
+    4116512561,
+    4116512526
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:country": "DE",
+    "addr:housenumber": "80",
+    "addr:postcode": "47475",
+    "addr:street": "Prinzenstraße",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "building": "retail",
+    "name": "Lidl",
+    "operator": "Lidl",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 270880773,
+  "center": {
+    "lat": 51.5008631,
+    "lon": 6.5472998
+  },
+  "nodes": [
+    2758434315,
+    1432982657,
+    1432982718,
+    1432982687,
+    2758434315
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:housenumber": "117",
+    "addr:postcode": "47475",
+    "addr:street": "Ringstraße",
+    "building": "yes",
+    "name": "Fatih Market",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 290377045,
+  "center": {
+    "lat": 51.5045062,
+    "lon": 6.5321774
+  },
+  "nodes": [
+    3425517880,
+    3425517773,
+    3425517774,
+    3425517756,
+    3425517755,
+    3425517751,
+    3425517732,
+    3425517854,
+    3425517853,
+    3425517882,
+    3425517884,
+    3425517878,
+    3425517880
+  ],
+  "tags": {
+    "brand": "Penny",
+    "brand:wikidata": "Q284688",
+    "brand:wikipedia": "en:Penny (supermarket)",
+    "building": "retail",
+    "name": "Penny",
+    "opening_hours": "Mo-Sa 07:00-22:00; PH,Su off",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 391481761,
+  "center": {
+    "lat": 51.4993646,
+    "lon": 6.5599874
+  },
+  "nodes": [
+    4040291621,
+    4040291565,
+    4040291581,
+    4138886378,
+    6807129300,
+    6807129299,
+    4138886344,
+    6808090757,
+    4040291105,
+    8247661869,
+    8247661868,
+    8247661870,
+    4040291569,
+    8247661866,
+    4040291621
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:housenumber": "2",
+    "addr:postcode": "47475",
+    "addr:street": "Pestalozzistraße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "building": "retail",
+    "building:levels": "0",
+    "name": "Netto Marken-Discount",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:girocard": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Kamp-Lintfort/Pestalozzistr-2/5434/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 410333924,
+  "center": {
+    "lat": 51.4927486,
+    "lon": 6.5202618
+  },
+  "nodes": [
+    4121643368,
+    4121643352,
+    4121643350,
+    4121643341,
+    4121643296,
+    4121643276,
+    4121643261,
+    4121627155,
+    4121627174,
+    4121642645,
+    4121642664,
+    4121643195,
+    4121643273,
+    4121643302,
+    4121643331,
+    4121643312,
+    4121643368
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:country": "DE",
+    "addr:housenumber": "93",
+    "addr:postcode": "47475",
+    "addr:street": "Bürgermeister-Schmelzing-Straße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "building": "retail",
+    "name": "ALDI Süd",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/kamp-lintfort/buergermeister-schmelzing-strasse-93-101",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1184994869,
+  "center": {
+    "lat": 51.4942643,
+    "lon": 6.5561071
+  },
+  "nodes": [
+    11007424630,
+    11007424653,
+    11007424656,
+    11007424631,
+    11007424654,
+    11007424655,
+    11007424632,
+    11007424633,
+    11007424634,
+    11007424635,
+    11007424657,
+    11007424636,
+    11007424637,
+    11007424638,
+    11007424630
+  ],
+  "tags": {
+    "addr:city": "Kamp-Lintfort",
+    "addr:housenumber": "29b",
+    "addr:postcode": "47475",
+    "addr:street": "Franzstraße",
+    "brand": "REWE",
+    "brand:wikidata": "Q16968817",
+    "building": "supermarket",
+    "name": "REWE Dortmund",
+    "opening_hours": "Mo-Sa 07:00-21:30",
+    "operator": "REWE Dortmund",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}
