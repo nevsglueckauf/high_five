@@ -12,7 +12,7 @@ sequenceDiagram
     rect rgb(161, 241, 168)
         loop Every {TIME_INTERVAL}
             
-            Py->>Api: HTTP Request - GET / POST https://...
+            Py->>Api: HTTP Request - POST( QL als Payload) https://https://overpass-api.de/api/interpreter
             Api->>Py: HTTP Response - Send(JSON)
             Py-->Py: Parse JSON
             note over Py: to list[dict{}]<br/>to DataFrame

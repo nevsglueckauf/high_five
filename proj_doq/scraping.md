@@ -12,9 +12,9 @@ sequenceDiagram
     rect rgb(161, 241, 168)
         loop Every {TIME_INTERVAL}
             
-            Py->>Webserver: HTTP Request - GET / POST https://...
+            Py->>Webserver: HTTP Request - GET  https://www.tiendeo.de/Filialen/{city}/supermarkt?page={page}
             Webserver->>Py: HTTP Response - Send (HTML, XML, SOAP, oder noch schlimmer)
-            Py-->SP: Parse HTML, 
+            Py-->SP: Parse HTML, XML, ..
             SP-->Py: Python Datenstruktur
             note over Py: to list[dict{}]<br/>to DataFrame
             Py->>pd: Add data to DataFrame
