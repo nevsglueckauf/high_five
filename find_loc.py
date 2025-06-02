@@ -1,37 +1,51 @@
 import json
 import requests
+from typing import Self
 
 
 class LocationFinder:
-    """  Finding location related data to different objectives 
+    """  Lokations-/Geoinformation zu verschiedenen Gebieten (Objectives) finden
     
-        E.G: loc: 'Berlin' / objective: 'supermarkt' 
+        Z.B: cty: 'Berlin' / obj: 'supermarkt' 
 
-    Returns:
-        _type_: _description_
     """
     
-    tmeot = 120
+    tmeot = 120 # Timeout in Sekunden
+    
+    lst_rsp:requests.models.Response = None # Letze Response als Objekt
+    
+    # API: Aggregator verschiedener Datenquellen
+        
+    base_url = "https://overpass-api.de/api/interpreter"
+    
     
     
     # Anfrage an Overpass API
-    def snd_req(self, cty:str, obj:str) -> requests.models.Response:
-        """ Sending request to external API
+    def snd_req(self, cty:str, obj:str)  -> Self:
+        """ Sendet POST Request (mit JSON Payload) zur API
 
         Args:
-            cty (str): Village/City/Region/ etc.
+            cty (str): Gemeinde/ Stadt / Region/ etc.
             obj (str): objective of interest 
 
         Returns:
-            requests.models.Response: 
+            requests.models.Response
         """
-        # Aggretagor
-        url = "https://overpass-api.de/api/interpreter"
         
-        query = self.gen_q(cty=cty, obj=obj)
-        return requests.post(url, data={"data": query}, timeout=self.tmeot)
+        
+        
+        query = self.gen_bs_q(cty=cty, obj=obj)
+        self.lst_rsp =  requests.post(self.base_url, data={"data": query}, timeout=self.tmeot)
+        return self
     
-    def gen_q(self, cty:str, obj:str):
+    
+    def gen_bs_q(self, cty:str, obj:str):
+        """ Generiert die Basis-Suche nach 
+            - Ort (cty)  und 
+            - Sachgebiet (obj)
+        
+        """
+        
         return f"""
         [out:json];
         area["name"="{cty}"]->.searchArea;
@@ -42,10 +56,4 @@ class LocationFinder:
         );
         out center;
         """
-
-foo = LocationFinder()
-
-dta = foo.snd_req(cty='Moers', obj='supermarket')
-
-print(dta.text)
 

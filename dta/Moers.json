@@ -1,342 +1,946 @@
-[
-  {
-    "Name":"Edeka",
-    "Kette":"EDEKA",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4473934,
-    "Lon":6.6326736
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-06-02T07:17:23Z",
+    "timestamp_areas_base": "2025-05-20T05:45:31Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
-  {
-    "Name":"Rewe",
-    "Kette":"Rewe",
-    "Straße":"Markt",
-    "Hausnummer":"1",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4891608,
-    "Lon":6.6027055
-  },
-  {
-    "Name":"Edeka Gerdes",
-    "Kette":"Edeka",
-    "Straße":"Kurt-Schumacher-Allee",
-    "Hausnummer":"32",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4844965,
-    "Lon":6.6162591
-  },
-  {
-    "Name":"Edeka",
-    "Kette":"Edeka",
-    "Straße":"Homberger Straße",
-    "Hausnummer":"329-333",
-    "Postleitzahl":"47443",
-    "Stadt":"Moers",
-    "Lat":51.4499829,
-    "Lon":6.6692235
-  },
-  {
-    "Name":"Edeka Paschmann",
-    "Kette":null,
-    "Straße":"Römerstraße",
-    "Hausnummer":"430",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4419576,
-    "Lon":6.66202
-  },
-  {
-    "Name":"Aldi Süd",
-    "Kette":"Aldi Süd",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4163383,
-    "Lon":6.5937889
-  },
-  {
-    "Name":"Grand Markt",
-    "Kette":null,
-    "Straße":"Leipziger Straße",
-    "Hausnummer":"3",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4410171,
-    "Lon":6.6437104
-  },
-  {
-    "Name":"Reformhaus Kaubisch",
-    "Kette":null,
-    "Straße":"Friedrichstraße",
-    "Hausnummer":"61",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4525461,
-    "Lon":6.6269057
-  },
-  {
-    "Name":"Bioladen XXL",
-    "Kette":null,
-    "Straße":"Lintforter Straße",
-    "Hausnummer":"11",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4894862,
-    "Lon":6.5893115
-  },
-  {
-    "Name":"Edeka",
-    "Kette":"Edeka",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4135757,
-    "Lon":6.5931669
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":"Blücherstraße",
-    "Hausnummer":"13",
-    "Postleitzahl":"47443",
-    "Stadt":"Moers",
-    "Lat":51.4597075,
-    "Lon":6.6484971
-  },
-  {
-    "Name":"Aldi Süd",
-    "Kette":"Aldi Süd",
-    "Straße":"Orsoyer Allee",
-    "Hausnummer":"1b",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.479969,
-    "Lon":6.6333682
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":"Kampstraße",
-    "Hausnummer":"2a",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4701039,
-    "Lon":6.630743
-  },
-  {
-    "Name":"EDEKA GERDES",
-    "Kette":"EDEKA",
-    "Straße":"Edekaplatz",
-    "Hausnummer":"12",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4711717,
-    "Lon":6.6328269
-  },
-  {
-    "Name":"Kaas Frischdienst",
-    "Kette":null,
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4901578,
-    "Lon":6.6008746
-  },
-  {
-    "Name":"Moerser Tafel",
-    "Kette":null,
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4662435,
-    "Lon":6.634661
-  },
-  {
-    "Name":"Edeka Müser",
-    "Kette":"EDEKA",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4266018,
-    "Lon":6.65883
-  },
-  {
-    "Name":"ALDI Süd",
-    "Kette":"ALDI Süd",
-    "Straße":"Düsseldorfer Straße",
-    "Hausnummer":"336-338",
-    "Postleitzahl":"47447",
-    "Stadt":"Moers",
-    "Lat":51.4201273,
-    "Lon":6.6546194
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4493612,
-    "Lon":6.6760848
-  },
-  {
-    "Name":"Kaufland",
-    "Kette":"Kaufland",
-    "Straße":"Hülsdonker Straße",
-    "Hausnummer":"86",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4521162,
-    "Lon":6.6126954
-  },
-  {
-    "Name":"Lidl",
-    "Kette":"Lidl",
-    "Straße":"Hülsdonker Straße",
-    "Hausnummer":"110",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4518218,
-    "Lon":6.6100039
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":"Nieper Straße",
-    "Hausnummer":"1",
-    "Postleitzahl":"47447",
-    "Stadt":"Moers",
-    "Lat":51.4131897,
-    "Lon":6.5943081
-  },
-  {
-    "Name":"ALDI Süd",
-    "Kette":"ALDI Süd",
-    "Straße":"Uerdinger Straße",
-    "Hausnummer":"67",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4456327,
-    "Lon":6.6345325
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":"Düsseldorfer Straße",
-    "Hausnummer":"491",
-    "Postleitzahl":"47447",
-    "Stadt":"Moers",
-    "Lat":51.409266,
-    "Lon":6.6631853
-  },
-  {
-    "Name":"Aldi Süd",
-    "Kette":"Aldi Süd",
-    "Straße":"Drennesweg",
-    "Hausnummer":"3",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4773588,
-    "Lon":6.6051736
-  },
-  {
-    "Name":"Lidl",
-    "Kette":"Lidl",
-    "Straße":"Franz-Haniel-Straße",
-    "Hausnummer":"22",
-    "Postleitzahl":"47443",
-    "Stadt":"Moers",
-    "Lat":51.4548302,
-    "Lon":6.6657358
-  },
-  {
-    "Name":"REWE",
-    "Kette":"REWE",
-    "Straße":null,
-    "Hausnummer":null,
-    "Postleitzahl":null,
-    "Stadt":"Moers",
-    "Lat":51.4462118,
-    "Lon":6.6340673
-  },
-  {
-    "Name":"Lidl",
-    "Kette":"Lidl",
-    "Straße":"Römerstraße",
-    "Hausnummer":"446",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4430456,
-    "Lon":6.6626731
-  },
-  {
-    "Name":"Lidl",
-    "Kette":"Lidl",
-    "Straße":"Klever Straße",
-    "Hausnummer":"46",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4563212,
-    "Lon":6.6376708
-  },
-  {
-    "Name":"ALDI Süd",
-    "Kette":"ALDI Süd",
-    "Straße":"Baustraße",
-    "Hausnummer":"27",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.4560424,
-    "Lon":6.63537
-  },
-  {
-    "Name":"ALDI Süd",
-    "Kette":"ALDI Süd",
-    "Straße":"Franz-Haniel-Straße",
-    "Hausnummer":"90",
-    "Postleitzahl":"47443",
-    "Stadt":"Moers",
-    "Lat":51.4556353,
-    "Lon":6.6679053
-  },
-  {
-    "Name":"PENNY",
-    "Kette":"PENNY",
-    "Straße":"Homberger Straße",
-    "Hausnummer":"115",
-    "Postleitzahl":"47441",
-    "Stadt":"Moers",
-    "Lat":51.450637,
-    "Lon":6.6437425
-  },
-  {
-    "Name":"Netto Marken-Discount",
-    "Kette":"Netto Marken-Discount",
-    "Straße":"Markt",
-    "Hausnummer":"2",
-    "Postleitzahl":"47445",
-    "Stadt":"Moers",
-    "Lat":51.4894522,
-    "Lon":6.6027243
-  },
-  {
-    "Name":"Kaufland",
-    "Kette":"Kaufland",
-    "Straße":"Römerstraße",
-    "Hausnummer":"570",
-    "Postleitzahl":"47443",
-    "Stadt":"Moers",
-    "Lat":51.4549393,
-    "Lon":6.6582203
+  "elements": [
+
+{
+  "type": "node",
+  "id": 120578680,
+  "lat": 51.4473934,
+  "lon": 6.6326736,
+  "tags": {
+    "brand": "EDEKA",
+    "brand:wikidata": "Q701755",
+    "brand:wikipedia": "de:Edeka",
+    "name": "Edeka",
+    "shop": "supermarket",
+    "wheelchair": "limited"
   }
-]
+},
+{
+  "type": "node",
+  "id": 1168609372,
+  "lat": 51.4891608,
+  "lon": 6.6027055,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "1",
+    "addr:postcode": "47445",
+    "addr:street": "Markt",
+    "brand": "Rewe",
+    "brand:wikidata": "Q16968817",
+    "brand:wikipedia": "en:REWE",
+    "name": "Rewe",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "operator": "Rewe",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1378801107,
+  "lat": 51.4844965,
+  "lon": 6.6162591,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "32",
+    "addr:postcode": "47445",
+    "addr:street": "Kurt-Schumacher-Allee",
+    "brand": "Edeka",
+    "brand:wikidata": "Q701755",
+    "brand:wikipedia": "en:Edeka",
+    "name": "Edeka Gerdes",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1442031410,
+  "lat": 51.4499829,
+  "lon": 6.6692235,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "329-333",
+    "addr:postcode": "47443",
+    "addr:street": "Homberger Straße",
+    "brand": "Edeka",
+    "brand:wikidata": "Q701755",
+    "brand:wikipedia": "de:Edeka",
+    "check_date": "2024-09-10",
+    "contact:fax": "+49 2841 981066",
+    "contact:phone": "+49 2841 981065",
+    "name": "Edeka",
+    "opening_hours": "Mo-Su 06:30-21:00",
+    "operator": "EDEKA Rywotzki",
+    "shop": "supermarket",
+    "website": "https://www.edeka.de/eh/rhein-ruhr/edeka-rywotzki-homberger-stra%C3%9Fe-329-333/index.jsp",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2279813707,
+  "lat": 51.4419576,
+  "lon": 6.6620200,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "430",
+    "addr:postcode": "47441",
+    "addr:street": "Römerstraße",
+    "email": "654@edeka-paschmann.de",
+    "fax": "+49-2841-95382",
+    "internet_access": "wlan",
+    "name": "Edeka Paschmann",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su,PH off",
+    "operator": "Edeka",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "phone": "+49-2841-95381",
+    "shop": "supermarket",
+    "website": "https://edeka-paschmann.de/markt/roemerstrasse/"
+  }
+},
+{
+  "type": "node",
+  "id": 2296287035,
+  "lat": 51.4163383,
+  "lon": 6.5937889,
+  "tags": {
+    "brand": "Aldi Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "name": "Aldi Süd",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/bahnhofstrasse-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3914865475,
+  "lat": 51.4410171,
+  "lon": 6.6437104,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "47441",
+    "addr:street": "Leipziger Straße",
+    "name": "Grand Markt",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 3951779123,
+  "lat": 51.4525461,
+  "lon": 6.6269057,
+  "tags": {
+    "access:covid19": "yes",
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "61",
+    "addr:postcode": "47441",
+    "addr:street": "Friedrichstraße",
+    "delivery:covid19": "yes",
+    "name": "Reformhaus Kaubisch",
+    "opening_hours": "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00",
+    "opening_hours:covid19": "Mo-Fr 09:00-13:30,14:30-18:00; Sa 10:00-14:00",
+    "organic": "only",
+    "shop": "supermarket",
+    "takeaway:covid19": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4840250324,
+  "lat": 51.4894862,
+  "lon": 6.5893115,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "11",
+    "addr:postcode": "47445",
+    "addr:street": "Lintforter Straße",
+    "fax": "+49 2841 9981949",
+    "name": "Bioladen XXL",
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 8:30-13:00",
+    "phone": "+49 2841 9982789",
+    "shop": "supermarket",
+    "website": "http://www.bioladenxxl-moers.de"
+  }
+},
+{
+  "type": "node",
+  "id": 7398699009,
+  "lat": 51.4135757,
+  "lon": 6.5931669,
+  "tags": {
+    "brand": "Edeka",
+    "brand:wikidata": "Q701755",
+    "brand:wikipedia": "de:Edeka",
+    "name": "Edeka",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Edeka",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7437600760,
+  "lat": 51.4597075,
+  "lon": 6.6484971,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "47443",
+    "addr:street": "Blücherstraße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "name": "Netto Marken-Discount",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "operator": "Netto Marken-Discount AG & Co. KG",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Moers/Bluecherstr-13-15/6438/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7442026666,
+  "lat": 51.4799690,
+  "lon": 6.6333682,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "1b",
+    "addr:postcode": "47445",
+    "addr:street": "Orsoyer Allee",
+    "brand": "Aldi Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "name": "Aldi Süd",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/orsoyer-allee-1b",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7472486169,
+  "lat": 51.4701039,
+  "lon": 6.6307430,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "2a",
+    "addr:postcode": "47445",
+    "addr:street": "Kampstraße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "name": "Netto Marken-Discount",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Moers/Kampstr-2a/5562/"
+  }
+},
+{
+  "type": "node",
+  "id": 7486734668,
+  "lat": 51.4711717,
+  "lon": 6.6328269,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "12",
+    "addr:postcode": "47445",
+    "addr:street": "Edekaplatz",
+    "addr:type:de": "Anfahrtsadresse",
+    "brand": "EDEKA",
+    "brand:wikidata": "Q701755",
+    "name": "EDEKA GERDES",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8558750704,
+  "lat": 51.4901578,
+  "lon": 6.6008746,
+  "tags": {
+    "name": "Kaas Frischdienst",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-13:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 10833463456,
+  "lat": 51.4662435,
+  "lon": 6.6346610,
+  "tags": {
+    "name": "Moerser Tafel",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11158952627,
+  "lat": 51.4266018,
+  "lon": 6.6588300,
+  "tags": {
+    "brand": "EDEKA",
+    "brand:wikidata": "Q701755",
+    "brand:wikipedia": "de:Edeka",
+    "email": "edeka-mueser@t-online.de",
+    "fax": "+49 2841 31156",
+    "name": "Edeka Müser",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 07:30-21:00; Su,PH off",
+    "operator": "Edeka",
+    "phone": "+49 2841 36054",
+    "shop": "supermarket",
+    "website": "https://www.edeka-mueser.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11711470052,
+  "lat": 51.4201273,
+  "lon": 6.6546194,
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "336-338",
+    "addr:postcode": "47447",
+    "addr:street": "Düsseldorfer Straße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "name": "ALDI Süd",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Aldi Süd",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12378574493,
+  "lat": 51.4493612,
+  "lon": 6.6760848,
+  "tags": {
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "name": "Netto Marken-Discount",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 32344283,
+  "center": {
+    "lat": 51.4521162,
+    "lon": 6.6126954
+  },
+  "nodes": [
+    364103884,
+    364103890,
+    1551017216,
+    1551017241,
+    364103895,
+    364103898,
+    364103901,
+    364103904,
+    364103907,
+    364103910,
+    364103913,
+    364103916,
+    364103919,
+    364103922,
+    364103925,
+    364103927,
+    1784946363,
+    8206789183,
+    364103930,
+    364103932,
+    364103935,
+    1784946346,
+    364103884
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "86",
+    "addr:postcode": "47441",
+    "addr:street": "Hülsdonker Straße",
+    "brand": "Kaufland",
+    "brand:wikidata": "Q685967",
+    "building": "supermarket",
+    "name": "Kaufland",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "shop": "supermarket",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 32374094,
+  "center": {
+    "lat": 51.4518218,
+    "lon": 6.6100039
+  },
+  "nodes": [
+    364338794,
+    7385976868,
+    364338795,
+    7385976866,
+    7385976865,
+    7385976867,
+    1784946367,
+    7385976847,
+    364338798,
+    7385976874,
+    7385976873,
+    1784946331,
+    7385976871,
+    7385976872,
+    7385976870,
+    7385976869,
+    7385976877,
+    364338805,
+    364338806,
+    364338794
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "110",
+    "addr:postcode": "47441",
+    "addr:street": "Hülsdonker Straße",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "building": "supermarket",
+    "building:use:retail": "yes",
+    "name": "Lidl",
+    "opening_hours": "Mo-Sa 07:00-21:00",
+    "roof:shape": "gabled",
+    "shop": "supermarket",
+    "source:outline": "ALKIS NRW",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 38772948,
+  "center": {
+    "lat": 51.4131897,
+    "lon": 6.5943081
+  },
+  "nodes": [
+    3418505318,
+    3418505320,
+    3418505319,
+    3418505315,
+    3418505316,
+    3418501385,
+    3418505294,
+    3418501387,
+    3418501392,
+    3418505321,
+    3418505318
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "1",
+    "addr:postcode": "47447",
+    "addr:street": "Nieper Straße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "building": "yes",
+    "name": "Netto Marken-Discount",
+    "operator": "Netto Marken-Discount",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Moers/Nieper-Str-1/6422/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 50025706,
+  "center": {
+    "lat": 51.4456327,
+    "lon": 6.6345325
+  },
+  "nodes": [
+    635370957,
+    635370992,
+    635370994,
+    635370996,
+    635371019,
+    635371023,
+    10775119523,
+    10775119522,
+    635371016,
+    635371025,
+    635371021,
+    10775141241,
+    10775141244,
+    635370957
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "67",
+    "addr:postcode": "47441",
+    "addr:street": "Uerdinger Straße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "building": "yes",
+    "name": "ALDI Süd",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/uerdinger-strasse-67",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 112610750,
+  "center": {
+    "lat": 51.4092660,
+    "lon": 6.6631853
+  },
+  "nodes": [
+    1351864785,
+    1279611752,
+    1351864786,
+    1351864788,
+    1351864797,
+    1351864801,
+    1351864804,
+    1351864807,
+    1351864792,
+    1351864794,
+    1351864787,
+    1351864785
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:housenumber": "491",
+    "addr:postcode": "47447",
+    "addr:street": "Düsseldorfer Straße",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "building": "supermarket",
+    "name": "Netto Marken-Discount",
+    "operator": "Netto Marken-Discount",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Moers/Duesseldorfer-Str-491/6423/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 120530015,
+  "center": {
+    "lat": 51.4773588,
+    "lon": 6.6051736
+  },
+  "nodes": [
+    1351336362,
+    1351336371,
+    1351336366,
+    1351336357,
+    1351336369,
+    1351336364,
+    1351336355,
+    1351336374,
+    1351336362
+  ],
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "47445",
+    "addr:street": "Drennesweg",
+    "brand": "Aldi Süd",
+    "brand:wikidata": "Q41171672",
+    "brand:wikipedia": "en:Aldi",
+    "building": "yes",
+    "name": "Aldi Süd",
+    "operator": "Aldi (Süd)",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/drennesweg-3"
+  }
+},
+{
+  "type": "way",
+  "id": 122155083,
+  "center": {
+    "lat": 51.4548302,
+    "lon": 6.6657358
+  },
+  "nodes": [
+    1365757718,
+    11844620497,
+    2865319170,
+    1365757755,
+    1365757536,
+    1365757515,
+    1365757544,
+    1365757507,
+    11844620495,
+    1365757628,
+    1365757691,
+    1365757718
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "22",
+    "addr:postcode": "47443",
+    "addr:street": "Franz-Haniel-Straße",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "building": "supermarket",
+    "name": "Lidl",
+    "opening_hours": "Mo-Sa 07:00-21:00",
+    "shop": "supermarket",
+    "source": "Bing",
+    "toilets:wheelchair": "no",
+    "website": "https://www.lidl.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 131512423,
+  "center": {
+    "lat": 51.4462118,
+    "lon": 6.6340673
+  },
+  "nodes": [
+    1447267492,
+    1432132595,
+    1447267371,
+    1447267377,
+    8404745698,
+    1447267503,
+    1447267476,
+    1447267456,
+    1447267452,
+    1447267536,
+    1447267516,
+    635371013,
+    10918063500,
+    1447267386,
+    1447267492
+  ],
+  "tags": {
+    "brand": "REWE",
+    "brand:wikidata": "Q16968817",
+    "brand:wikipedia": "de:Rewe",
+    "building": "retail",
+    "name": "REWE",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 135642417,
+  "center": {
+    "lat": 51.4430456,
+    "lon": 6.6626731
+  },
+  "nodes": [
+    1489453315,
+    1489453314,
+    1489453308,
+    2288173654,
+    4449525318,
+    4449525317,
+    581150193,
+    1489453310,
+    4449525323,
+    1489453311,
+    1489453312,
+    1489453313,
+    1489453315
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "446",
+    "addr:postcode": "47441",
+    "addr:street": "Römerstraße",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "building": "yes",
+    "name": "Lidl",
+    "operator": "Lidl",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 159311966,
+  "center": {
+    "lat": 51.4563212,
+    "lon": 6.6376708
+  },
+  "nodes": [
+    1714152074,
+    1714152064,
+    1714158315,
+    1730361455,
+    1714152060,
+    1714152069,
+    1714152071,
+    1714152072,
+    1714152074
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "46",
+    "addr:postcode": "47441",
+    "addr:street": "Klever Straße",
+    "brand": "Lidl",
+    "brand:wikidata": "Q151954",
+    "brand:wikipedia": "en:Lidl",
+    "building": "retail",
+    "name": "Lidl",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su off",
+    "operator": "Lidl Dienstleistung GmbH & Co. KG",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 159312825,
+  "center": {
+    "lat": 51.4560424,
+    "lon": 6.6353700
+  },
+  "nodes": [
+    1714168570,
+    1714168571,
+    1714263030,
+    1714263032,
+    1714168573,
+    1714168568,
+    2879379253,
+    2879377460,
+    2879377461,
+    1714168570
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "27",
+    "addr:postcode": "47441",
+    "addr:street": "Baustraße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "building": "yes",
+    "name": "ALDI Süd",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Aldi Süd Moers GmbH & Co. KG‎",
+    "shop": "supermarket",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/baustrasse-27",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 219026578,
+  "center": {
+    "lat": 51.4556353,
+    "lon": 6.6679053
+  },
+  "nodes": [
+    3295087396,
+    3295087403,
+    3295087501,
+    3295087489,
+    3295087511,
+    3295087465,
+    3295087476,
+    3295087461,
+    3295087397,
+    3295087398,
+    3295087392,
+    3295087387,
+    3295087369,
+    3295087378,
+    3295087372,
+    3295087371,
+    3295087342,
+    3295087365,
+    3295087396
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "90",
+    "addr:postcode": "47443",
+    "addr:street": "Franz-Haniel-Straße",
+    "brand": "ALDI Süd",
+    "brand:wikidata": "Q41171672",
+    "building": "supermarket",
+    "building:use:retail": "yes",
+    "description:de": "Bitte vor Änderungen beachten: Die beiden neuen Gebäude (Aldi-Süd und Drogerie-Markt DM) und fast alle Parkplatzwege sind Parallel bzw. im Winkel von 90 Grad zur Franz-Haniel-Straße angeordnet.",
+    "name": "ALDI Süd",
+    "note:de": "Die in Bing gezeigten Werkhallen sind inzwischen demontiert. Es wurden zwei Neubauten (Aldi-Süd und Drogerie-Markt DM) errichtet. Die in Bing gezeigten Parkmöglichkeiten sind nicht mehr aktuell.",
+    "opening_hours": "Mo-Sa 08:00-21:00",
+    "roof:shape": "flat",
+    "shop": "supermarket",
+    "source": "local knowledge",
+    "source:outline": "ALKIS NRW",
+    "website": "https://filialen.aldi-sued.de/nordrhein-westfalen/moers/franz-haniel-strasse-90",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 410471761,
+  "center": {
+    "lat": 51.4506370,
+    "lon": 6.6437425
+  },
+  "nodes": [
+    4123000132,
+    4123000133,
+    4123000134,
+    4123000137,
+    4123000136,
+    4123000135,
+    4123000132
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "115",
+    "addr:postcode": "47441",
+    "addr:street": "Homberger Straße",
+    "brand": "PENNY",
+    "brand:wikidata": "Q284688",
+    "brand:wikipedia": "en:Penny (supermarket)",
+    "building": "yes",
+    "name": "PENNY",
+    "opening_hours": "Mo-Sa 07:00-22:00; Su,PH 08:00-12:00",
+    "payment:coins": "yes",
+    "payment:elv": "yes",
+    "payment:girocard": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:payback_pay": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 412934495,
+  "center": {
+    "lat": 51.4894522,
+    "lon": 6.6027243
+  },
+  "nodes": [
+    4142576571,
+    3346289257,
+    3346289277,
+    4142576580,
+    4142576574,
+    4142576571
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "47445",
+    "addr:street": "Markt",
+    "brand": "Netto Marken-Discount",
+    "brand:wikidata": "Q879858",
+    "brand:wikipedia": "de:Netto Marken-Discount",
+    "building": "yes",
+    "name": "Netto Marken-Discount",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.netto-online.de/filialen/Moers/Markt-2/6439/"
+  }
+},
+{
+  "type": "way",
+  "id": 1182187398,
+  "center": {
+    "lat": 51.4549393,
+    "lon": 6.6582203
+  },
+  "nodes": [
+    270925230,
+    10978411423,
+    10978411422,
+    10978411425,
+    1365757655,
+    1365757776,
+    10978411421,
+    10978411420,
+    1365757844,
+    1365757832,
+    1365757791,
+    1365757721,
+    1365757616,
+    1365757594,
+    270925232,
+    270925230
+  ],
+  "tags": {
+    "addr:city": "Moers",
+    "addr:country": "DE",
+    "addr:housenumber": "570",
+    "addr:postcode": "47443",
+    "addr:street": "Römerstraße",
+    "atm": "yes",
+    "brand": "Kaufland",
+    "brand:wikidata": "Q685967",
+    "brand:wikipedia": "en:Kaufland",
+    "building": "supermarket",
+    "check_date:opening_hours": "2025-03-16",
+    "name": "Kaufland",
+    "old_name": "Real",
+    "opening_hours": "Mo-Sa 07:00-22:00",
+    "shop": "supermarket",
+    "source": "Bing",
+    "start_date": "2021-01-03",
+    "website": "www.kaufland.de",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}
+
