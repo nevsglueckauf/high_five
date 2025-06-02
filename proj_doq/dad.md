@@ -1,7 +1,7 @@
 # SMS DA
 
 
-## Multi-Tier Modell
+## Multi-Tier Modell Sc
 ```mermaid
 sequenceDiagram
 autonumber

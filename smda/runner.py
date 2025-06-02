@@ -58,7 +58,7 @@ class Runner:
         self.resp = self.client.get(uri=uri)
         if(self.ato_sav):
             fn = self.fn_pfx + par + '.json'
-            self.client.sv(fn=fn, dta=self.resp)
+            self.client.sv(fn=fn, dta=self.resp.text)
             # GET, POST OR whatever
         
  
