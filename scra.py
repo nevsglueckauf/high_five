@@ -7,7 +7,7 @@ from typing import Self
 
 class Scrapy:
 
-    # Flag für "Trocken"-Layu - ohne HTTP Request
+    # Flag für "Trocken"-Lauf - ohne HTTP Requests
     # Achtung: Um zu crawlen bitte auf False setzen
     DRY_RUN:bool = True
 
