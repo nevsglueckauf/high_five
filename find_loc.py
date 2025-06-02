@@ -84,3 +84,5 @@ class LocationFinder:
         with(open(fn, 'w')) as f:
             f.write(dta)
         return self
+    
+    
