@@ -4,10 +4,13 @@ from typing import Self
 
 
 class LocationFinder:
-    """  Lokations-/Geoinformation zu verschiedenen Gebieten (Objectives) finden
+    """  Lokations- / Geoinformation zu verschiedenen Themen (Objectives) finden
+    
     
         Z.B: cty: 'Berlin' / obj: 'supermarkt' 
 
+        Unter Benutzung der Overpass API
+        SEE https://overpass-api.de/
     """
     
     tmeot = 120 # Timeout in Sekunden
@@ -40,9 +43,14 @@ class LocationFinder:
     
     
     def gen_bs_q(self, cty:str, obj:str):
-        """ Generiert die Basis-Suche nach 
+        """ Generiert die Anfrage für die Basis-Suche nach :
+            
             - Ort (cty)  und 
             - Sachgebiet (obj)
+            
+            als Overpass API/Overpass QL
+            
+            SEE https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Recurse_down_(%3E)
         
         """
         
@@ -57,3 +65,28 @@ class LocationFinder:
         out center;
         """
 
+    def ld(self, fn:str) -> str:
+        """ Datei laden 
+        Args:
+            fn (str): Dateiname
+
+        Returns:
+            string: Datei-Inhalt
+        """
+        with (open(fn, 'r')) as f:
+            tmp = f.read()
+        return tmp
+    
+    def sv(self, fn:str, dta:str)->Self:
+        """ String-Inhalt in Datei speichern
+
+        Args:
+            fn (str): Dateiname
+            dta (str): Inhalt
+
+        Returns:
+            Self: self
+        """
+        with(open(fn, 'w')) as f:
+            f.write(dta)
+        return self
