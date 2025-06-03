@@ -55,7 +55,8 @@ class Runner:
                 self.resp = self.snd_req(self.dyn_par[idx], self.uris[idx])
                 
     def snd_req(self, par:str, uri:str):
-        self.resp = self.client.get(uri=uri)
+        self.client.get(uri=uri)
+        self.resp = self.client.lst_rsp
         if(self.ato_sav):
             fn = self.fn_pfx + par + '.json'
             self.client.sv(fn=fn, dta=self.resp.text)

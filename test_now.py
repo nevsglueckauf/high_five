@@ -29,7 +29,7 @@ rbz_02 = [
     "Soest",
 ]
 
-runner = Runner(uri=uri_tpl, par=rbz_02, client=HTTPClient())
+runner = Runner(uri=uri_tpl, par=rbz_01, client=HTTPClient())
 runner.dry_run = False
 runner.crawl()
 

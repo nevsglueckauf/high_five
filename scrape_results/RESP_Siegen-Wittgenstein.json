@@ -1,0 +1,2318 @@
+<!doctype html>
+<html lang="de" class="no-js">
+<head>
+<title>EDEKA Marktsuche: Angebote, &Ouml;ffnungszeiten und Anfahrt</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://www.edeka.de/marktsuche.jsp" />
+<meta name="description" content="Sie suchen einen Supermarkt in der N&auml;he? In unserer Marktsuche finden Sie Ihren EDEKA Markt mit aktuellen Angeboten, &Ouml;ffnungszeiten und Routenplanung." />
+<meta name="keywords" content="Marktsuche" />
+<link rel="icon" type="image/png" sizes="32x32" href="/b2c-design/global/core/assets/icons/favicon-32x32.png?version=1.10.3">
+<link rel="icon" type="image/png" sizes="16x16" href="/b2c-design/global/core/assets/icons/favicon-16x16.png?version=1.10.3">
+<link rel="shortcut icon" href="/b2c-design/global/core/assets/icons/favicon.ico?version=1.10.3">
+<meta property="og:title" content="EDEKA Marktsuche: Angebote, &Ouml;ffnungszeiten und Anfahrt" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.edeka.de/eh/marktsuche.jsp" />
+<meta property="fb:profile_id" content="105559876186522" />
+<meta property="og:description" content="Sie suchen einen Supermarkt in der N&auml;he? In unserer Marktsuche finden Sie Ihren EDEKA Markt mit aktuellen Angeboten, &Ouml;ffnungszeiten und Routenplanung." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="EDEKA Marktsuche: Angebote, &Ouml;ffnungszeiten und Anfahrt" />
+<meta name="twitter:description" content="Sie suchen einen Supermarkt in der N&auml;he? In unserer Marktsuche finden Sie Ihren EDEKA Markt mit aktuellen Angeboten, &Ouml;ffnungszeiten und Routenplanung." />
+<link rel="stylesheet" href="/b2c-design/global/core/css/core.css?version=1.10.3">
+<link rel="stylesheet" href="/b2c-design/features/store-search/css/store-search.css?version=1.10.3">
+<link rel="stylesheet" href="/b2c-design/features/retailer/css/retailer.css?version=1.10.3">
+<script src="/b2c-design/global/core/js-vendor/modernizr/modernizr-custom.js?version=1.10.3"></script>
+<script src="https://cdn.tagcommander.com/5030/tc_DigitalesMarketingAP053028_22.js"></script>
+</head>
+<body data-module="core-application" data-application-config="{&quot;sectionEntryAnimation&quot;:true}">
+<script>
+dataLayer = [];
+var edeka_b2c_dataLayer = {
+'userRegionId': 'EZ',
+'userMarketName': '',
+'userMarketId': '',
+'dataSource': 'responsive',
+'retailerId': '',
+'regionId': '',
+'marketName': '',
+'marketId': '',
+'atiPage': 'Marktsuche',
+'atiChapter1': 'EDEKA',
+'atiChapter2': '',
+'atiChapter3': '',
+'atiLevel2': '2',
+'pageCategory': 'Sonstiges',
+'URL': '%2Fmarktsuche.jsp',
+'userState': '',
+'userCouponingAccountState': '',
+'userPaymentRegistrationState': '',
+'userLoyaltyStatus': ''
+};
+window.tc_vars = edeka_b2c_dataLayer;
+</script>
+<script type="text/javascript">
+function ns_onclick(q,f,u,b,o){var i=window,l=i.ns_p,m=l&&l.src,s="&ns_",h=document.referrer.replace(/\/$/,""),f=f||q.href,o=o||"",j={t:0,o:0},e=eventURL=c1_match=c2_match="",c=/\bc1=[^&]+\b/i,g=/\bc2=[^&]+\b/i,p=(i.encodeURIComponent?encodeURIComponent:escape),n="3.1312.06";if(m&&(c1_match=l.src.match(c))&&!c.test(u)){e+="&"+c1_match}if(m&&(c2_match=l.src.match(g))&&!g.test(u)){e+="&"+c2_match}if(m){var t=l.src,k=t.indexOf("?");eventURL=t.substr(0,k>-1?k:t.length)+"?"}eventURL=[eventURL,u,e,s,"type=",b,s,"action=view",s,"_t=",+new Date,s,"sc_sv=",n,s,"sc_href=",p(f).substr(0,1000),h?"&c9="+p(h):""].join("");var r=q&&q.target?q.target.replace(/^_/,""):"self",d=new Image();if(i[r]){j.t=(function(w,v,a){return function(){clearTimeout(a.o);d.onload=d.onerror=function(){return};i[w].location.href=v}})(r,f,j);j.o=setTimeout(j.t,5000);d.onload=d.onerror=j.t}else{i.open(f,r,o)}d.src=eventURL;return false};
+</script>
+<script src="https://cdn.tagcommander.com/5030/tc_DigitalesMarketingAP053028_20.js"></script>
+<div class="t-store-search-page">
+<header class="o-core-m401-header " data-module="o-core-m401-header">
+<div class="o-core-m401-header__bar">
+<div class="o-core-m401-header__bar-inner">
+<div class="o-core-m401-header__bar-grid">
+<div class="o-core-m401-header__bar-main">
+<div class="o-core-m401-header__logo">
+<a href="https://www.edeka.de" title="">
+<img class="a-core-image" srcset="/b2c-design/global/core/assets/organisms/m401-header/logo-hidpi.png 104w, /b2c-design/global/core/assets/organisms/m401-header/logo.png 52w" sizes="52px" src="/b2c-design/global/core/assets/organisms/m401-header/logo.png"
+alt="EDEKA" title="EDEKA" />
+</a>
+</div>
+<nav class="o-core-m401-header__nav">
+<ul class="o-core-m401-header__nav-list">
+<li class="o-core-m401-header__nav-item">
+<a href="/" class="o-core-m401-header__nav-item-link" data-element="o-core-m401-header__nav-item-link" data-flyout="retailerOffers" title="Markt & Angebote">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-navigation-item-markt" viewBox="0 0 100 100">
+<title>Markt & Angebote</title>
+<use xlink:href="#global-core-navigation-item-markt"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+<span class="o-core-m401-header__nav-item-link-text">
+<span class="o-core-m401-header__nav-item-link-text-inner">
+Markt & Angebote
+</span>
+</span>
+</a>
+</li>
+<li class="o-core-m401-header__nav-item">
+<a href="/" class="o-core-m401-header__nav-item-link" data-element="o-core-m401-header__nav-item-link" data-flyout="recipes" title="Rezepte">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-navigation-item-rezepte" viewBox="0 0 100 100">
+<title>Rezepte</title>
+<use xlink:href="#global-core-navigation-item-rezepte"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+<span class="o-core-m401-header__nav-item-link-text">
+<span class="o-core-m401-header__nav-item-link-text-inner">
+Rezepte
+</span>
+</span>
+</a>
+</li>
+<li class="o-core-m401-header__nav-item">
+<a href="/" class="o-core-m401-header__nav-item-link" data-element="o-core-m401-header__nav-item-link" data-flyout="nutrition" title="Ernährung">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-navigation-item-ernaehrung" viewBox="0 0 100 100">
+<title>Ernährung</title>
+<use xlink:href="#global-core-navigation-item-ernaehrung"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+<span class="o-core-m401-header__nav-item-link-text">
+<span class="o-core-m401-header__nav-item-link-text-inner">
+Ernährung
+</span>
+</span>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="o-core-m401-header__actions">
+<li class="o-core-m401-header__actions-item" title="Marktsuche">
+<!-- MODULE_START global:core:atom:prg -->
+<a href="/marktsuche.jsp?source=Homepage" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Icon&quot;,&quot;atiEvent3&quot;:&quot;Marktsuche&quot;,&quot;target&quot;:&quot;/marktsuche.jsp&quot;}"
+data-tracking-flags="{&quot;uriEncode&quot;:true}" data-tracking-wait="true" data-href="/marktsuche.jsp">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-navigation-action-search" viewBox="0 0 100 100">
+<title>Marktsuche</title>
+<use xlink:href="#global-core-navigation-action-search"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+</a>
+<!-- MODULE_END global:core:atom:prg -->
+</li>
+</ul>
+<div data-element="o-core-m401-header__container" data-container-id="meta" data-container-type="tablet">
+<nav class="o-core-m401-header__meta has-dropdown-for-tablet">
+<input type="checkbox" name="o-core-m401-header__meta-dropdown-switch" id="o-core-m401-header__meta-dropdown-switch" class="o-core-m401-header__meta-dropdown-switch">
+<span class="o-core-m401-header__meta-dropdown-label">
+<!-- MODULE_START global:core:atom:nav-link -->
+<label class="a-core-nav-link has-context-color-dark has-icon-right" for="o-core-m401-header__meta-dropdown-switch">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-down" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-down"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Mehr von EDEKA
+</label>
+<!-- MODULE_END global:core:atom:nav-link -->
+</span>
+<ul class="o-core-m401-header__meta-list">
+<li class="o-core-m401-header__meta-item"
+data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Meta-Navi&quot;,&quot;atiEvent3&quot;:&quot;Jobs bei EDEKA&quot;,&quot;target&quot;:&quot;https://verbund.edeka/karriere/&quot;}"
+data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<a href="https://verbund.edeka/karriere/" target="_blank" class="a-core-nav-link has-context-color-dark has-icon-right track-m401-header-meta-navi" title="Jobs bei EDEKA">
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+Jobs bei EDEKA</a>
+</li>
+<li class="o-core-m401-header__meta-item"
+data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Meta-Navi&quot;,&quot;atiEvent3&quot;:&quot;Unsere Marken&quot;,&quot;target&quot;:&quot;/unsere-marken/index.jsp&quot;}"
+data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<a href="/unsere-marken/index.jsp" class="a-core-nav-link has-context-color-dark has-icon-right track-m401-header-meta-navi" title="Unsere Marken">
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+Unsere Marken</a>
+</li>
+<li class="o-core-m401-header__meta-item"
+data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Meta-Navi&quot;,&quot;atiEvent3&quot;:&quot;Gewinnspiele&quot;,&quot;target&quot;:&quot;/gewinnspiel/index.jsp&quot;}"
+data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<a href="/gewinnspiel/index.jsp" class="a-core-nav-link has-context-color-dark has-icon-right track-m401-header-meta-navi" title="Gewinnspiele">
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+Gewinnspiele</a>
+</li>
+<li class="o-core-m401-header__meta-item"
+data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Meta-Navi&quot;,&quot;atiEvent3&quot;:&quot;Nachhaltigkeit&quot;,&quot;target&quot;:&quot;/nachhaltigkeit.jsp&quot;}"
+data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<a href="/nachhaltigkeit.jsp" class="a-core-nav-link has-context-color-dark has-icon-right track-m401-header-meta-navi" title="Nachhaltigkeit">
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+Nachhaltigkeit</a>
+</li>
+<li class="o-core-m401-header__meta-item" style="align-items: center; margin-top: 8px;">
+<a href="/services/bonusprogramme/payback.jsp">
+<img alt="Payback Logo" loading="lazy" width="54" height="20" decoding="async" data-nimg="1" class="h-auto"
+srcset="/media/03-design/header/payback-logo.svg 1x, /media/03-design/header/payback-logo.svg 2x"
+src="/media/03-design/header/payback-logo.svg" style="color: transparent; padding-right: 0;">
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-core-m401-header__mobile-bar" data-element="o-core-m401-header__mobile-bar">
+<div class="o-core-m401-header__mobile-bar-inner">
+<div class="o-core-m401-header__mobile-bar-grid">
+<div class="o-core-m401-header__mobile-bar-main">
+<div class="o-core-m401-header__burger" data-element="o-core-m401-header__burger">
+<div class="o-core-m401-header__burger-line"></div>
+<div class="o-core-m401-header__burger-line"></div>
+<div class="o-core-m401-header__burger-line"></div>
+</div>
+<div class="o-core-m401-header__claim">
+<a href="/" title="">
+<!-- MODULE_START global:core:atom:image -->
+<img class="a-core-image" src="/b2c-design/global/core/assets/organisms/m401-header/claim.svg"
+alt="Wir lieben Lebensmittel" title="Wir ♥ Lebensmittel" />
+<!-- MODULE_END global:core:atom:image -->
+</a>
+</div>
+<div class="o-core-m401-header__action">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-core-m401-header__mobile-nav" data-element="o-core-m401-header__mobile-nav">
+<div class="o-core-m401-header__mobile-nav-inner">
+<div class="o-core-m401-header__mobile-nav-grid">
+<div class="o-core-m401-header__mobile-nav-main">
+<div class="o-core-m401-header__mobile-retailer-offers-container" data-element="o-core-m401-header__container" data-container-id="offers-retailer" data-container-type="mobile"></div>
+<nav class="o-core-m401-header__main-nav">
+<ul class="o-core-m401-header__main-nav-list">
+<li class="o-core-m401-header__main-nav-item">
+<a class="o-core-m401-header__main-nav-link" href="/" data-element="o-core-m401-header__main-nav-link" data-flyout="recipes">
+<span> Rezepte</span>
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<title>Rezepte</title>
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+</a>
+</li>
+<li class="o-core-m401-header__main-nav-item">
+<a class="o-core-m401-header__main-nav-link" href="/" data-element="o-core-m401-header__main-nav-link" data-flyout="nutrition">
+<span>Ernährung</span>
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<title>Ernährung</title>
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+</a>
+</li>
+</ul>
+</nav>
+<div class="o-core-m401-header__mobile-meta" data-element="o-core-m401-header__container" data-container-id="meta" data-container-type="mobile"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-core-m401-header__flyout" data-element="o-core-m401-header__flyout">
+<div class="o-core-m401-header__flyout-inner">
+<div class="o-core-m401-header__flyout-grid">
+<div class="o-core-m401-header__flyout-main">
+<div class="o-core-m401-header__flyout-content" data-element="o-core-m401-header__flyout-content" data-flyout="retailerOffers">
+<!-- DEBUG knzTz , marktID , userRegionId -->
+<!-- MODULE_START global:core:molecule:navigation-content-retailer-offers -->
+<div class="m-core-navigation-content-retailer-offers" data-module="m-core-navigation-content-retailer-offers" data-template-json-id="CoreNavigationContentRetailerOffers">
+<div class="m-core-navigation-content-retailer-offers__store" data-element="o-core-m401-header__container" data-container-id="offers-retailer" data-container-type="tablet">
+<!-- MODULE_START global:core:molecule:navigation-section-store -->
+<div class="m-core-navigation-section-store">
+<div class="m-core-navigation-section-store__inner">
+<div class="m-core-navigation-section-store__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Mein Markt
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section-store__headline-mobile">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Mein Markt & Angebote
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section-store__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Um Services und Angebote zu sehen, wählen Sie bitte zunächst Ihren persönlichen EDEKA Markt.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section-store__store-information">
+<input type="checkbox" id="m-core-navigation-section-store__store-information-switch" class="m-core-navigation-section-store__store-information-switch">
+<label class="m-core-navigation-section-store__store-information-trigger" for="m-core-navigation-section-store__store-information-switch">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-down" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-down"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+</label>
+<div class="m-core-navigation-section-store__store-information-inner">
+</div>
+</div>
+<div class="m-core-navigation-section-store__buttons-mobile">
+<a class="a-core-button is-primary has-context-dark" href="https://www.edeka.de/eh/angebote.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Angebote&quot;,&quot;target&quot;:&quot;https://www.edeka.de/eh/angebote.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Angebote
+</a>
+<!-- MODULE_START global:core:atom:button 1-->
+<a class="a-core-button is-secondary has-context-dark" href="/marktsuche.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Markt wählen&quot;,&quot;target&quot;:&quot;/marktsuche.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Markt wählen
+</a>
+</div>
+<div class="m-core-navigation-section-store__buttons" >
+<a class="a-core-button is-secondary has-context-dark" href="/marktsuche.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Markt wählen&quot;,&quot;target&quot;:&quot;/marktsuche.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Markt wählen
+</a>
+</div>
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section-store -->
+</div>
+<!-- MODULE_START global:core:atom:navigation-content-separator -->
+<div class="a-core-navigation-content-separator"></div>
+<!-- MODULE_END global:core:atom:navigation-content-separator -->
+<div class="m-core-navigation-content-retailer-offers__image">
+<!-- MODULE_START global:core:atom:navigation-content-image -->
+<div class="a-core-navigation-content-image">
+<!-- MODULE_START global:core:atom:image -->
+<img class="a-core-image"
+src="/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=480&imdensity=1"
+srcset="/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=240&imdensity=1 240w,/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=380&imdensity=1 380w,/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=480&imdensity=1 480w,/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=760&imdensity=1 760w,/media/edeka-zentrale/responsive/eh-teaser-angebote-navi-angebote.jpg?imwidth=960&imdensity=1 960w"
+sizes="(min-width: 980px) 30vw,(min-width: 700px) 40vw,(min-width: 450px) 45vw,100vw" alt="" />
+<!-- MODULE_END global:core:atom:image -->
+</div>
+<!-- MODULE_END global:core:atom:navigation-content-image -->
+</div>
+<div class="m-core-navigation-content-retailer-offers__offers">
+<!-- MODULE_START global:core:molecule:navigation-section -->
+<div class="m-core-navigation-section">
+<div class="m-core-navigation-section__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+
+Angebote
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+
+Informieren Sie sich über aktuelle Angebote.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section__buttons">
+<!-- MODULE_START global:core:atom:button -->
+<a class="a-core-button is-primary has-context-dark" href="https://www.edeka.de/eh/angebote.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Angebote entdecken&quot;,&quot;target&quot;:&quot;https://www.edeka.de/eh/angebote.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Angebote entdecken
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+</div>
+</div>
+<div class="o-core-m401-header__flyout-content" data-element="o-core-m401-header__flyout-content" data-flyout="recipes">
+<!-- MODULE_START global:core:molecule:navigation-content-recipes -->
+<div class="o-core-m401-header__flyout-go-back">
+<!-- MODULE_START global:core:atom:nav-link -->
+<button class="a-core-nav-link has-context-color-dark has-icon-left" data-element="o-core-m401-header__flyout-go-back">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-left" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-left"/>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Rezepte
+</button>
+<!-- MODULE_END global:core:atom:nav-link -->
+</div>
+<div class="m-core-navigation-content-recipes">
+<div class="m-core-navigation-content-recipes__image has-headline">
+<!-- MODULE_START global:core:atom:navigation-content-image -->
+<div class="a-core-navigation-content-image">
+<!-- MODULE_START global:core:atom:image -->
+<img class="a-core-image"
+src="/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=480&imdensity=1"
+srcset="/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=240&imdensity=1 240w,/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=380&imdensity=1 380w,/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=480&imdensity=1 480w,/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=760&imdensity=1 760w,/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-fruehlingssalat-mit-erdbeeren-rezept-e-h-1-1.jpg?imwidth=960&imdensity=1 960w"
+sizes="(min-width: 980px) 30vw,(min-width: 700px) 40vw,(min-width: 450px) 45vw,100vw" alt="" />
+<!-- MODULE_END global:core:atom:image -->
+</div>
+<!-- MODULE_END global:core:atom:navigation-content-image -->
+</div>
+<div class="m-core-navigation-content-recipes__magazine">
+<!-- MODULE_START global:core:molecule:navigation-section -->
+<div class="m-core-navigation-section">
+<div class="m-core-navigation-section__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Rezepte
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Entdecken Sie unsere regionalen und saisonalen Rezeptideen.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section__buttons">
+<!-- MODULE_START global:core:atom:button 2-->
+<a class="a-core-button is-primary has-context-dark" href="https://www.edeka.de/rezeptwelt/rezepte/" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Rezepte entdecken&quot;,&quot;target&quot;:&quot;https://www.edeka.de/rezeptwelt/rezepte/&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Rezepte entdecken
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+<!-- MODULE_START global:core:atom:navigation-content-separator -->
+<div class="a-core-navigation-content-separator"></div>
+<!-- MODULE_END global:core:atom:navigation-content-separator -->
+<div class="m-core-navigation-content-recipes__search-cookbook">
+<!-- MODULE_START global:core:molecule:navigation-section -->
+<div class="m-core-navigation-section">
+<div class="m-core-navigation-section__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Rezeptsammlungen
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Alle Themen rund ums Kochen, Backen, Einladen und Genießen auf einen Blick.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section__buttons">
+<!-- MODULE_START global:core:atom:button 2-->
+<a class="a-core-button is-secondary has-context-dark" href="/ernaehrung/genussthemen/genussthemen-uebersicht/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Alle Genussthemen&quot;,&quot;target&quot;:&quot;/ernaehrung/genussthemen/genussthemen-uebersicht/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Alle Genussthemen
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-content-recipes -->
+</div>
+<div class="o-core-m401-header__flyout-content" data-element="o-core-m401-header__flyout-content" data-flyout="nutrition">
+<!-- MODULE_START global:core:molecule:navigation-content-nutrition -->
+<div class="o-core-m401-header__flyout-go-back">
+<!-- MODULE_START global:core:atom:nav-link -->
+<button class="a-core-nav-link has-context-color-dark has-icon-left" data-element="o-core-m401-header__flyout-go-back">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-left" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-left"/>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Ernährung
+</button>
+<!-- MODULE_END global:core:atom:nav-link -->
+</div>
+<div class="m-core-navigation-content-nutrition">
+<div class="m-core-navigation-content-nutrition__container is-0">
+<!-- MODULE_START global:core:molecule:navigation-section-wide -->
+<div class="m-core-navigation-section-wide">
+<div class="m-core-navigation-section-wide__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Ernährungsthemen & Drogerie
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section-wide__inner is-0">
+<div class="m-core-navigation-section-wide__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Informieren Sie sich, was Sie für eine ausgewogene und bewusste Ernährung beachten sollten.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section-wide__buttons">
+<!-- MODULE_START global:core:atom:button 1-->
+<a class="a-core-button is-primary has-context-dark" href="/ernaehrung/bewusste-ernaehrung-mit-edeka.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Bewusste Ernährung&quot;,&quot;target&quot;:&quot;/ernaehrung/bewusste-ernaehrung-mit-edeka.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Bewusste Ernährung
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<div class="m-core-navigation-section-wide__inner is-1">
+<ul class="m-core-navigation-section-wide__links has-vertical-orientation">
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/bewusste-ernaehrung/vitalstoffe/naehrstoffe-und-ihre-funktion.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Nährstoffe&quot;,&quot;target&quot;:&quot;/ernaehrung/bewusste-ernaehrung/vitalstoffe/naehrstoffe-und-ihre-funktion.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Nährstoffe
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/spezielle-ernaehrung/abnehmen/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Abnehmen&quot;,&quot;target&quot;:&quot;/ernaehrung/spezielle-ernaehrung/abnehmen/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Abnehmen
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/spezielle-ernaehrung/unvertraeglichkeiten-krankheiten/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Unverträglichkeiten&quot;,&quot;target&quot;:&quot;/ernaehrung/spezielle-ernaehrung/unvertraeglichkeiten-krankheiten/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Unverträglichkeiten
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/tests-und-rechner/bmi-koerpergewicht-pruefen/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;BMI-Rechner&quot;,&quot;target&quot;:&quot;/ernaehrung/tests-und-rechner/bmi-koerpergewicht-pruefen/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+BMI-Rechner
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/beauty/drogerie.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Drogerie&quot;,&quot;target&quot;:&quot;/ernaehrung/beauty/drogerie.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+EDEKA Drogerie
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+</ul>
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+<div class="m-core-navigation-content-nutrition__container is-1">
+<!-- MODULE_START global:core:molecule:navigation-section-wide -->
+<div class="m-core-navigation-section-wide">
+<div class="m-core-navigation-section-wide__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Ernährungsformen & -konzepte
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section-wide__inner is-2">
+<div class="m-core-navigation-section-wide__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Erfahren Sie alles über unsere Ernährungsformen, ihre Alternativen und verschiedene Trends.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section-wide__buttons">
+<!-- MODULE_START global:core:atom:button 1-->
+<a class="a-core-button is-primary has-context-dark" href="/ernaehrung/bewusste-ernaehrung/ernaehrungsformen/ernaehrungsformen.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Alles zu Ernährungsformen&quot;,&quot;target&quot;:&quot;/ernaehrung/bewusste-ernaehrung/ernaehrungsformen/ernaehrungsformen.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Alles zu Ernährungsformen
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<div class="m-core-navigation-section-wide__inner is-3">
+<ul class="m-core-navigation-section-wide__links has-vertical-orientation">
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/bewusste-ernaehrung/ernaehrungsformen/vegetarisch.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Vegetarisch&quot;,&quot;target&quot;:&quot;/ernaehrung/bewusste-ernaehrung/ernaehrungsformen/vegetarisch.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Vegetarisch
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/spezielle-ernaehrung/vegane-ernaehrung/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Vegan&quot;,&quot;target&quot;:&quot;/ernaehrung/spezielle-ernaehrung/vegane-ernaehrung/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Vegan
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/weitere-ernaehrungsformen-uebersicht.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Weitere Ernährungsformen&quot;,&quot;target&quot;:&quot;/ernaehrung/weitere-ernaehrungsformen-uebersicht.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Weitere Ernährungsformen
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/ernaehrungsformen/familie/familie.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Familie&quot;,&quot;target&quot;:&quot;/ernaehrung/ernaehrungsformen/familie/familie.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Familie
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/bewusste-ernaehrung/edeka-ernaehrungskonzepte/edeka-ernaehrungspyramide/index.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Ernährungspyramide&quot;,&quot;target&quot;:&quot;/ernaehrung/bewusste-ernaehrung/edeka-ernaehrungskonzepte/edeka-ernaehrungspyramide/index.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Ernährungspyramide
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+</ul>
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+<div class="m-core-navigation-content-nutrition__container is-2">
+<!-- MODULE_START global:core:molecule:navigation-section-wide -->
+<div class="m-core-navigation-section-wide">
+<div class="m-core-navigation-section-wide__headline">
+<!-- MODULE_START global:core:atom:headline -->
+<span class="a-core-headline is-category has-context-color-dark">
+Lebensmittelwissen
+</span>
+<!-- MODULE_END global:core:atom:headline -->
+</div>
+<div class="m-core-navigation-section-wide__inner is-4">
+<div class="m-core-navigation-section-wide__copy">
+<!-- MODULE_START global:core:atom:copy -->
+<p class="a-core-copy has-context-color-dark">
+Von A wie Artischocke bis Z wie Zander – erfahren Sie alles über unsere große Liebe Lebensmittel.
+</p>
+<!-- MODULE_END global:core:atom:copy -->
+</div>
+<div class="m-core-navigation-section-wide__buttons">
+<!-- MODULE_START global:core:atom:button 1-->
+<a class="a-core-button is-primary has-context-dark" href="/ernaehrung/lebensmittelwissen/lebensmittelwissen.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Alle Lebensmittel&quot;,&quot;target&quot;:&quot;/ernaehrung/lebensmittelwissen/lebensmittelwissen.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+Alle Lebensmittel
+</a>
+<!-- MODULE_END global:core:atom:button -->
+</div>
+</div>
+<div class="m-core-navigation-section-wide__inner is-5">
+<ul class="m-core-navigation-section-wide__links has-vertical-orientation">
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/lebensmittelwissen/superfoods-und-trends.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Trends & Superfoods&quot;,&quot;target&quot;:&quot;/ernaehrung/lebensmittelwissen/superfoods-und-trends.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Trends & Superfoods
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/lebensmittelwissen/ersatzprodukte.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Ersatzprodukte&quot;,&quot;target&quot;:&quot;/ernaehrung/lebensmittelwissen/ersatzprodukte.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Ersatzprodukte
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/lebensmittelwissen/kuechen-1x1.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Küchen 1x1&quot;,&quot;target&quot;:&quot;/ernaehrung/lebensmittelwissen/kuechen-1x1.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Küchen 1x1
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="https://www.edeka.de/wissen/tipps-und-tricks/" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Tipps & Tricks&quot;,&quot;target&quot;:&quot;https://www.edeka.de/wissen/tipps-und-tricks/&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Tipps & Tricks
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+
+<li class="m-core-navigation-section-wide__link">
+<!-- MODULE_START global:core:atom:nav-link -->
+<a class="a-core-nav-link has-context-color-dark has-icon-right" href="/ernaehrung/lebensmittelwissen/zutaten-a-z/warenkunde.jsp" data-module="a-core-track-click"
+data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Flyout&quot;,&quot;atiEvent3&quot;:&quot;Warenkunde&quot;,&quot;target&quot;:&quot;/ernaehrung/lebensmittelwissen/zutaten-a-z/warenkunde.jsp&quot;}"
+data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100">
+<use xlink:href="#global-core-arrow-right"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+Warenkunde
+</a>
+<!-- MODULE_END global:core:atom:nav-link -->
+</li>
+</ul>
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-section -->
+</div>
+</div>
+<!-- MODULE_END global:core:molecule:navigation-content-nutrition -->
+</div>
+</div>
+</div>
+</div>
+<div class="o-core-m401-header__flyout-close">
+<!-- MODULE_START global:core:atom:nav-link -->
+<button class="a-core-nav-link has-context-color-dark has-icon-right" data-element="o-core-m401-header__flyout-close-button">
+<!-- MODULE_START global:core:atom:icon -->
+<svg class="a-core-icon is-global-core-close" viewBox="0 0 100 100">
+<use xlink:href="#global-core-close"></use>
+</svg>
+<!-- MODULE_END global:core:atom:icon -->
+schließen
+</button>
+<!-- MODULE_END global:core:atom:nav-link -->
+</div>
+</div>
+<!-- MODULE_START global:core:atom:json-ld -->
+<script type="application/ld+json" class="a-core-json-ld">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "EDEKA",
+"alternateName": "EDEKA",
+"url": "https://www.edeka.de/"
+}
+</script>
+<!-- MODULE_END global:core:atom:json-ld -->
+<!-- MODULE_START global:core:atom:json-ld -->
+<script type="application/ld+json" class="a-core-json-ld">
+{
+"@context": "http://www.schema.org",
+"@type": "Organization",
+"name": "EDEKA",
+"url": "https://www.edeka.de",
+"logo": "https://www.edeka.de/b2c-design/global/core/assets/organisms/m401-header/logo.jpg",
+"description": "Willkommen bei EDEKA.de: Hier finden Sie unsere Wochen-Angebote in Ihrem EDEKA-Markt. Au&szlig;erdem: Rezepte, Ern&auml;hrungsthemen, Gewinnspiele und mehr entdecken!",
+"sameAs": [
+"https://www.facebook.com/EDEKA",
+"https://www.youtube.com/channel/UCh_8CJ9ngABMbrzm9M3gjFA",
+"https://www.instagram.com/edeka/?hl=de"
+]
+}
+</script>
+<!-- MODULE_END global:core:atom:json-ld -->
+</header>
+<nav class="o-core-m406-breadcrumb is-pos-absolute" data-module="o-core-m406-breadcrumb">
+  	<div class="o-core-m406-breadcrumb__wrapper">
+		<div class="o-core-m406-breadcrumb__inner">
+			<div class="o-core-m406-breadcrumb__grid" data-element="o-core-m406-breadcrumb__scroller">
+				<ol class="o-core-m406-breadcrumb__main">
+					<li class="o-core-m406-breadcrumb__item"><a class="o-core-m406-breadcrumb__item-content is-link" href="index.jsp">EDEKA</a><svg class="a-core-icon is-global-core-arrow-right" viewBox="0 0 100 100"><use xlink:href="#global-core-arrow-right"></use></svg></li>
+			      		<li class="o-core-m406-breadcrumb__item">
+			      			<span class="o-core-m406-breadcrumb__item-content">Marktsuche</span>
+			      		</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</nav>
+ <!-- MODULE_START global:core:atom:json-ld -->
+<script type="application/ld+json" class="a-core-json-ld">
+	{
+		"@context": "http://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [
+			{		
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"@id": "https://www.edeka.de/homepage.jsp",
+						"name": "EDEKA"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"item": {
+					"@id": "https://www.edeka.de/marktsuche.jsp",
+					"name": "Marktsuche"
+				}
+			}
+		]
+	}
+</script>
+<!-- MODULE_END global:core:atom:json-ld -->
+
+<section class="o-store-search-controller" data-module="o-store-search-controller" data-endpoint-results="https://www.edeka.de/api/marketsearch/markets" data-results-json-id="storeSearchResults">
+<div class="m-core-form-consent-overlay store-search " data-module="m-core-form-consent-overlay" data-element="m-core-form-consent-overlay">
+<div class="m-core-form-consent-overlay__message">
+<span class="a-core-headline is-entry has-context-color-bright has-spacing" >
+Ihren Lieblingsmarkt speichern
+</span>
+<div class="m-core-richtext">
+<p>
+Um Ihren Lieblingsmarkt speichern zu können, müssen Sie in den Datenschutzeinstellungen Ihre Zustimmung geben. Weitere Informationen finden Sie in unserer  <a href="/modulseiten/datenschutzbestimmungen/datenschutzbestimmungen.jsp" target="_blank">Datenschutzerkl&auml;rung.</a>
+</p>
+</div>
+<button class="a-core-button is-primary has-context-bright m-core-form-consent-overlay__button" > Aktivieren </button>
+<button class="a-core-icon-only-button has-context-bright m-core-form-consent-overlay__close-button" > <svg class="a-core-icon is-global-core-close" viewBox="0 0 100 100"> <use xlink:href="#global-core-close"></use> </svg> </button>
+</div>
+</div>
+<section class="o-store-search-loading" data-module="o-store-search-loading">
+<div class="o-store-search-loading__map">
+<div class="o-store-search-loading__map-animation">
+<div class="o-store-search-loading__map-animation-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path
+d="M256 32c-88.004 0-160 70.557-160 156.801C96 306.4 256 480 256 480s160-173.6 160-291.199C416 102.557 344.004 32 256 32zm0 212.801c-31.996 0-57.144-24.645-57.144-56 0-31.357 25.147-56 57.144-56s57.144 24.643 57.144 56c0 31.355-25.148 56-57.144 56z"/>
+</svg>
+</div>
+<div class="o-store-search-loading__map-animation-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path
+d="M256 32c-88.004 0-160 70.557-160 156.801C96 306.4 256 480 256 480s160-173.6 160-291.199C416 102.557 344.004 32 256 32zm0 212.801c-31.996 0-57.144-24.645-57.144-56 0-31.357 25.147-56 57.144-56s57.144 24.643 57.144 56c0 31.355-25.148 56-57.144 56z"/>
+</svg>
+</div>
+<div class="o-store-search-loading__map-animation-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path
+d="M256 32c-88.004 0-160 70.557-160 156.801C96 306.4 256 480 256 480s160-173.6 160-291.199C416 102.557 344.004 32 256 32zm0 212.801c-31.996 0-57.144-24.645-57.144-56 0-31.357 25.147-56 57.144-56s57.144 24.643 57.144 56c0 31.355-25.148 56-57.144 56z"/>
+</svg>
+</div>
+</div>
+</div>
+<div class="o-store-search-loading__header">
+<div class="o-store-search-search-bar" data-module="o-store-search-search-bar">
+<div class="o-store-search-search-bar__inner">
+<div class="o-store-search-search-bar__grid">
+<div class="o-store-search-search-bar__main">
+<div class="m-store-search-input-field-dummy" data-module="m-store-search-input-field-dummy" action="" data-testid="m-store-search-input-field-dummy">
+<input type="text" class="m-core-search-field__input dummy__input" placeholder="Marktname oder Adresse" data-element="m-store-search-input-field-dummy__field" autocomplete="off">
+<button type="submit" class="m-core-search-field__submit">
+<svg class="a-core-icon is-global-core-rezeptsuche" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-rezeptsuche"></use>
+</svg>
+</button>
+<div class="m-store-search-input-field-dummy__activate" data-element="m-store-search-input-field-dummy__activate"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-loading__content">
+<div class="o-store-search-loading__content-inner">
+<div class="o-store-search-loading__content-grid">
+<div class="o-store-search-loading__content-main">
+<div class="o-store-search-filter-bar" data-module="o-store-search-filter-bar">
+<div class="o-store-search-filter-bar__header">
+<a class="a-core-icon-button has-icon-left has-context-bright is-controller" href="" data-element="o-store-search-filter-bar__show-filters">
+<svg class="a-core-icon is-global-core-button-controller" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-button-controller"></use>
+</svg>
+Filter
+</a>
+<label class="a-core-toggle-switch has-context-bright">
+<div class="a-core-toggle-switch__switch">
+<input type="checkbox" class="a-core-toggle-switch__input" id="onlyOpenStores" data-element="o-store-search-filter-bar__filter-now-open" data-filter-submit="true" data-filter-type="additionalFilters" autocomplete="off">
+<span class="a-core-toggle-switch__slider"></span>
+</div>
+<div class="a-core-toggle-switch__label">
+Nur ge&ouml;ffnete M&auml;rkte
+</div>
+</label>
+</div>
+<div class="o-store-search-filter-bar__active-filters" data-element="o-store-search-filter-bar__active-filters">
+<div class="o-store-search-filter-bar__active-filters-inner">
+<div class="o-store-search-filter-bar__filter-count" data-element="o-store-search-filter-bar__filter-count">
+2 aktive Filter
+</div>
+<a class="a-core-link" href="" data-element="o-store-search-filter-bar__reset-filters">
+Filter zur&uuml;cksetzen
+</a>
+</div>
+</div>
+</div>
+<div class="o-store-search-loading__result-listing">
+<div class="o-store-search-loading__result-listing-item">
+<div class="o-store-search-loading__result-listing-item-placeholder left"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-bottom"></div>
+</div>
+<div class="o-store-search-loading__result-listing-item">
+<div class="o-store-search-loading__result-listing-item-placeholder left"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-bottom"></div>
+</div>
+<div class="o-store-search-loading__result-listing-item">
+<div class="o-store-search-loading__result-listing-item-placeholder left"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder header-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder copy-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-top"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-right"></div>
+<div class="o-store-search-loading__result-listing-item-placeholder info-bottom"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="o-store-search-no-results" data-message-term="Keine Märkte für <strong>###TERM###</strong> gefunden." data-message-location="Keine Märkte in deiner Nähe gefunden." data-module="o-store-search-no-results">
+<div class="o-store-search-search-bar" data-module="o-store-search-search-bar">
+<div class="o-store-search-search-bar__inner">
+<div class="o-store-search-search-bar__grid">
+<div class="o-store-search-search-bar__main">
+<div class="m-store-search-input-field-dummy" data-module="m-store-search-input-field-dummy" action="">
+<input type="text" class="m-core-search-field__input dummy__input" placeholder="Marktname oder Adresse" data-element="m-store-search-input-field-dummy__field" autocomplete="off">
+<button type="submit" class="m-core-search-field__submit">
+<svg class="a-core-icon is-global-core-rezeptsuche" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-rezeptsuche"></use>
+</svg>
+</button>
+<div class="m-store-search-input-field-dummy__activate" data-element="m-store-search-input-field-dummy__activate"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-no-results__content">
+<div class="o-store-search-no-results__content-inner">
+<div class="o-store-search-no-results__content-grid">
+<div class="o-store-search-no-results__content-main">
+<div class="o-store-search-filter-bar has-no-results" data-module="o-store-search-filter-bar">
+<div class="o-store-search-filter-bar__header">
+<a class="a-core-icon-button has-icon-left has-context-bright is-controller" href="" data-element="o-store-search-filter-bar__show-filters">
+<svg class="a-core-icon is-global-core-button-controller" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-button-controller"></use>
+</svg>
+Filter
+</a>
+<label class="a-core-toggle-switch has-context-bright" >
+<div class="a-core-toggle-switch__switch">
+<input type="checkbox" class="a-core-toggle-switch__input" id="onlyOpenStores" data-element="o-store-search-filter-bar__filter-now-open" data-filter-submit="true" data-filter-type="additionalFilters" autocomplete="off">
+<span class="a-core-toggle-switch__slider"></span>
+</div>
+<div class="a-core-toggle-switch__label">
+Nur geöffnete Märkte
+</div>
+</label>
+</div>
+<div class="o-store-search-filter-bar__active-filters" data-element="o-store-search-filter-bar__active-filters">
+<div class="o-store-search-filter-bar__active-filters-inner">
+<div class="o-store-search-filter-bar__filter-count" data-element="o-store-search-filter-bar__filter-count">
+2 aktive Filter
+</div>
+<a class="a-core-link " href="" data-element="o-store-search-filter-bar__reset-filters">
+Filter zurücksetzen
+</a>
+</div>
+</div>
+</div>
+<span class="a-core-headline is-article has-context-color-bright">
+Leider haben wir keine M&auml;rkte gefunden.
+</span>
+<div class="m-core-richtext">
+<p data-element="o-store-search-no-results__message"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-controller__scroller is-active" data-element="o-store-search-controller__scroller">
+<div class="o-store-search-controller__map" data-element="o-store-search-controller__map">
+<div class="o-store-search-map" data-module="o-store-search-map" data-testid="o-store-search-map">
+<div class="o-store-search-map__mount" data-element="o-store-search-map__mount"></div>
+</div>
+</div>
+<div class="o-store-search-controller__panel is-results" data-element="o-store-search-controller__panel" data-id="results">
+<div class="o-store-search-controller__panel-header" data-element="o-store-search-controller__panel-header">
+<div class="o-store-search-search-bar" data-module="o-store-search-search-bar" data-testid="o-store-search-search-bar">
+<div class="o-store-search-search-bar__inner">
+<div class="o-store-search-search-bar__grid">
+<div class="o-store-search-search-bar__main">
+<div class="m-store-search-input-field-dummy" data-module="m-store-search-input-field-dummy" action="">
+<input type="text" class="m-core-search-field__input dummy__input" placeholder="Marktname oder Adresse" data-element="m-store-search-input-field-dummy__field" autocomplete="off">
+<button type="submit" class="m-core-search-field__submit">
+<svg class="a-core-icon is-global-core-rezeptsuche" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-rezeptsuche"></use>
+</svg>
+</button>
+<div class="m-store-search-input-field-dummy__activate" data-element="m-store-search-input-field-dummy__activate"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-controller__panel-body" data-element="o-store-search-controller__panel-body">
+<div class="o-store-search-controller__panel-body-inner" data-element="o-store-search-controller__panel-body-inner">
+<div class="o-store-search-controller__content">
+<div class="o-store-search-controller__content-inner">
+<div class="o-store-search-controller__content-grid">
+<div class="o-store-search-controller__content-main">
+<div class="o-store-search-filter-bar" data-module="o-store-search-filter-bar" data-testid="o-store-search-filter-bar">
+<div class="o-store-search-filter-bar__header">
+<a class="a-core-icon-button has-icon-left has-context-bright is-controller" href="" data-element="o-store-search-filter-bar__show-filters">
+<svg class="a-core-icon is-global-core-button-controller" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-button-controller"></use>
+</svg>
+Filter
+</a>
+<label class="a-core-toggle-switch has-context-bright">
+<div class="a-core-toggle-switch__switch">
+<input type="checkbox" class="a-core-toggle-switch__input" id="onlyOpenStores" data-element="o-store-search-filter-bar__filter-now-open" data-filter-submit="true" data-filter-type="additionalFilters" autocomplete="off">
+<span class="a-core-toggle-switch__slider"></span>
+</div>
+<div class="a-core-toggle-switch__label">
+Nur ge&ouml;ffnete M&auml;rkte
+</div>
+</label>
+</div>
+<div class="o-store-search-filter-bar__active-filters" data-element="o-store-search-filter-bar__active-filters">
+<div class="o-store-search-filter-bar__active-filters-inner">
+<div class="o-store-search-filter-bar__filter-count" data-element="o-store-search-filter-bar__filter-count">
+2 aktive Filter
+</div>
+<a class="a-core-link" href="" data-element="o-store-search-filter-bar__reset-filters">
+Filter zur&uuml;cksetzen
+</a>
+</div>
+</div>
+</div>
+<div class="o-store-search-intro" data-module="o-store-search-intro">
+<h1 class="a-core-headline is-article has-context-color-bright has-spacing" data-testid="o-store-search-intro-headline">
+EDEKA Markt in der N&auml;he: Speichern Sie Ihren Lieblingsmarkt!
+</h1>
+<p class="a-core-copy has-context-color-bright">
+Ihren Lieblingsmarkt k&ouml;nnen Sie ganz einfach mit einem Klick setzen. Klicken Sie daf&uuml;r auf das Herz neben dem gew&uuml;nschten Markt. Dieser ist f&uuml;r Ihren Besuch auf edeka.de markiert.
+Mit einem gesetzten Lieblingsmarkt haben Sie den Vorteil, dass Sie schneller zu der Marktseite und den marktspezifischen Angeboten &uuml;ber die Navigation gelangen. Und f&uuml;r Ihre Newsletter-Anmeldung ist Ihr Lieblingsmarkt bereits gespeichert, damit Sie auch per E-Mail die marktspezifischen Angebote und weiteren Inspirationen vorab erhalten.
+</p>
+</div>
+<div class="o-store-search-no-results-favorite-market" data-message-term="Keine Märkte für <strong>###TERM###</strong> gefunden." data-message-location="Keine Märkte in deiner Nähe gefunden." data-module="o-store-search-no-results-favorite-market">
+<div class="o-store-search-no-results-favorite-market__content">
+<div class="o-store-search-no-results-favorite-market__content-inner">
+<div class="o-store-search-no-results-favorite-market__content-grid">
+<div class="o-store-search-no-results-favorite-market__content-main">
+<span class="a-core-headline is-article has-context-color-bright">
+Leider haben wir keine M&auml;rkte gefunden.
+</span>
+<div class="m-core-richtext">
+<p data-element="o-store-search-no-results-favorite-market__message-favorite-market"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-results-listing" data-module="o-store-search-results-listing">
+<div class="o-store-search-results-listing__inner" data-element="o-store-search-results-listing__inner">
+<div class="o-store-search-results-listing__no-items">
+Keine passenden Märkte gefunden.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-controller__panel is-detail" data-element="o-store-search-controller__panel" data-id="detail">
+<div class="o-store-search-controller__panel-header" data-element="o-store-search-controller__panel-header">
+<div class="o-store-search-controller__detail-title">
+<div class="o-store-search-controller__detail-title-inner">
+<div class="o-store-search-controller__detail-title-grid">
+<div class="o-store-search-controller__detail-title-main">
+<div class="o-store-search-controller__detail-title-item">
+<span class="a-core-headline is-article has-context-color-bright">
+<span class="o-store-search-controller__detail-title-headline" data-element="o-store-search-controller__detail-title-headline"></span>
+</span>
+</div>
+<div class="o-store-search-controller__detail-title-item">
+<p class="a-core-copy has-context-color-bright">
+<span class="o-store-search-controller__detail-title-copy" data-element="o-store-search-controller__detail-title-copy"></span>
+</p>
+</div>
+<span class="o-store-search-controller__detail-title-close" data-element="o-store-search-controller__close">
+<button class="a-core-icon-only-button has-context-bright">
+<svg class="a-core-icon is-global-core-close" viewBox="0 0 100 100">
+<use xlink:href="#global-core-close"></use>
+</svg>
+</button>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-controller__panel-body" data-element="o-store-search-controller__panel-body">
+<div class="o-store-search-controller__panel-body-inner" data-element="o-store-search-controller__panel-body-inner">
+<div data-element="o-store-search-controller__panel-body-content">
+<div class="o-store-search-controller__content">
+<div class="o-store-search-controller__content-inner">
+<div class="o-store-search-controller__content-grid">
+<div class="o-store-search-controller__content-main">
+<div class="o-store-search-store-detail" data-module="o-store-search-store-detail">
+<div class="o-store-search-store-detail__inner" data-element="o-store-search-store-detail__inner">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-outro has-2-items" data-module="o-store-search-outro" data-testid="o-store-search-outro">
+<div class="o-store-search-outro__content">
+<div class="o-store-search-outro__grid">
+<div class="o-store-search-outro__item">
+<h2 class="a-core-headline is-article has-context-color-bright" data-testid="o-store-search-outro-headline">
+Supermarkt in der N&auml;he &ndash; finden Sie Ihren EDEKA Markt!
+</h2>
+<div class="m-core-richtext">
+<p>Sie sind auf der Suche nach einem EDEKA Markt in Ihrer Nähe? Egal, ob Sie in Südbayern oder im Norden zu Hause sind: Mit unserer EDEKA Marktsuche finden Sie mit nur wenigen Klicks Supermärkte in der Nähe. Geben Sie einfach Ihre Postleitzahl oder den gewünschten Ort in das Suchfeld ein und schon werden Ihnen alle EDEKA Märkte im Umkreis angezeigt – inklusive Angabe der Adresse, Öffnungszeiten und Anfahrtsbeschreibung. Speichern Sie den gewünschten EDEKA Markt als Lieblingsmarkt, lassen Sie sich die aktuellen Angebote anzeigen oder besuchen Sie direkt die Marktseite. Probieren Sie die EDEKA Marktsuche gleich aus!</p>
+</div>
+</div>
+<div class="o-store-search-outro__item">
+<span class="a-core-headline is-article has-context-color-bright" data-testid="o-store-search-outro-headline">
+M&auml;rkte in weiteren Regionen
+</span>
+<div class="m-core-expander " data-module="m-core-expander">
+<input type="checkbox" class="m-core-expander__switch" id="o-store-search-outro__links-expand" data-element="m-core-expander__switch" />
+<div class="m-core-expander__content">
+<ul class="o-store-search-outro__links">
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/aachen.jsp" title="Ballungsgebiet Aachen">
+Aachen
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/berlin.jsp" title="Ballungsgebiet Berlin">
+Berlin
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/bielefeld.jsp" title="Ballungsgebiet Bielefeld">
+Bielefeld
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/bochum.jsp" title="Ballungsgebiet Bochum">
+Bochum
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/bonn.jsp" title="Ballungsgebiet Bonn">
+Bonn
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/braunschweig.jsp" title="Ballungsgebiet Braunschweig">
+Braunschweig
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/bremen.jsp" title="Ballungsgebiet Bremen">
+Bremen
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/chemnitz.jsp" title="Ballungsgebiet Chemnitz">
+Chemnitz
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/dortmund.jsp" title="Ballungsgebiet Dortmund">
+Dortmund
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/dresden.jsp" title="Ballungsgebiet Dresden">
+Dresden
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/duisburg.jsp" title="Ballungsgebiet Duisburg">
+Duisburg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/duesseldorf.jsp" title="Ballungsgebiet D&uuml;sseldorf">
+Düsseldorf
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/essen.jsp" title="Ballungsgebiet Essen">
+Essen
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/halle.jsp" title="Ballungsgebiet Halle">
+Halle
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/hamburg.jsp" title="Ballungsgebiet Hamburg">
+Hamburg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/hamm.jsp" title="Ballungsgebiet Hamm">
+Hamm
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/hannover.jsp" title="Ballungsgebiet Hannover">
+Hannover
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/ingolstadt.jsp" title="Ballungsgebiet Ingolstadt">
+Ingolstadt
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/karlsruhe.jsp" title="Ballungsgebiet Karlsruhe">
+Karlsruhe
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/kassel.jsp" title="Ballungsgebiet Kassel">
+Kassel
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/koeln.jsp" title="Ballungsgebiet K&ouml;ln">
+Köln
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/konstanz.jsp" title="Ballungsgebiet Konstanz">
+Konstanz
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/krefeld.jsp" title="Ballungsgebiet Krefeld">
+Krefeld
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/leipzig.jsp" title="Ballungsgebiet Leipzig">
+Leipzig
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/luebeck.jsp" title="Ballungsgebiet L&uuml;beck">
+Lübeck
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/magdeburg.jsp" title="Ballungsgebiet Magdeburg">
+Magdeburg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/minden.jsp" title="Ballungsgebiet Minden">
+Minden
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/moers.jsp" title="Ballungsgebiet Moers">
+Moers
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/muenchen.jsp" title="Ballungsgebiet M&uuml;nchen">
+München
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/muenster.jsp" title="Ballungsgebiet M&uuml;nster">
+Münster
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/neumuenster.jsp" title="Ballungsgebiet Neum&uuml;nster">
+Neumünster
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/nuernberg.jsp" title="Ballungsgebiet N&uuml;rnberg">
+Nürnberg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/offenburg.jsp" title="Ballungsgebiet Offenburg">
+Offenburg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/osnabrueck.jsp" title="Ballungsgebiet Osnabr&uuml;ck">
+Osnabrück
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/regensburg.jsp" title="Ballungsgebiet Regensburg">
+Regensburg
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/rostock.jsp" title="Ballungsgebiet Rostock">
+Rostock
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/stuttgart.jsp" title="Ballungsgebiet Stuttgart">
+Stuttgart
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/tuebingen.jsp" title="Ballungsgebiet T&uuml;bingen">
+Tübingen
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/velbert.jsp" title="Ballungsgebiet Velbert">
+Velbert
+</a>
+</li>
+<li class="o-store-search-outro__links-item">
+<a class="a-core-link" href="marktsuche/wuerzburg.jsp" title="Ballungsgebiet W&uuml;rzburg">
+Würzburg
+</a>
+</li>
+</ul>
+</div>
+<div class="m-core-expander__collapse" data-element="m-core-expander__collapse">
+<label class="a-core-icon-button has-icon-right has-context-bright is-collapse" for="o-store-search-outro__links-expand" data-testid="m-core-expander-collapse">
+<svg class="a-core-icon is-global-core-button-collapse" viewBox="0 0 100 100">
+<use xlink:href="#global-core-button-collapse"></use>
+</svg>
+Weniger Regionen anzeigen
+</label>
+</div>
+<div class="m-core-expander__expand" data-element="m-core-expander__expand">
+<label class="a-core-icon-button has-icon-right has-context-bright is-expand" for="o-store-search-outro__links-expand" data-testid="m-core-expander-expand">
+<svg class="a-core-icon is-global-core-button-expand" viewBox="0 0 100 100">
+<use xlink:href="#global-core-button-expand"></use>
+</svg>
+Mehr Regionen anzeigen
+</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-search-overlay" data-module="o-store-search-search-overlay">
+<div class="o-store-search-search-overlay__background" data-element="o-store-search-search-overlay__background"></div>
+<div class="o-store-search-search-overlay__inner" data-element="o-store-search-search-overlay__inner">
+<div class="o-store-search-search-overlay__grid">
+<div class="o-store-search-search-overlay__container">
+<div class="o-store-search-search-overlay__container-inner">
+<div class="o-store-search-search-overlay__header" data-element="o-store-search-search-overlay__header">
+<div class="o-store-search-search-overlay__header-inner" data-element="o-store-search-search-overlay__header-inner">
+<div class="o-store-search-search-overlay__header-content" data-element="o-store-search-search-overlay__header-content">
+<form class="m-store-search-input-field" data-module="m-store-search-input-field" action="">
+<input type="search" class="m-core-search-field__input dummy__input" placeholder="Marktname oder Adresse" data-element="m-store-search-input-field__field" autocomplete="off">
+<button type="submit" class="m-store-search-input-field__submit m-core-search-field__submit">
+<svg class="a-core-icon is-global-core-rezeptsuche" viewBox="0 0 100 100">
+<title>Suchen</title>
+<use xlink:href="#global-core-rezeptsuche"></use>
+</svg>
+</button>
+</form>
+</div>
+<span class="o-store-search-search-overlay__close" data-element="o-store-search-search-overlay__close">
+Abbrechen
+</span>
+</div>
+</div>
+<div class="o-store-search-search-overlay__body" data-element="o-store-search-search-overlay__body">
+<div class="o-store-search-search-overlay__body-fullwidth-content">
+<div class="o-store-search-search-overlay__error">
+<div class="m-store-search-user-location-error" data-module="m-store-search-user-location-error">
+<div class="m-store-search-user-location-error__content">
+<div class="m-store-search-user-location-error__message" data-element="m-store-search-user-location-error__message">
+</div>
+</div>
+</div>
+</div>
+<div class="m-store-search-user-location-loading" data-module="m-store-search-user-location-loading">
+<div class="m-store-search-user-location-loading__main">
+<div class="m-store-search-user-location-loading__icon">
+<svg class="a-core-icon is-global-core-location" viewBox="0 0 100 100">
+<use xlink:href="#global-core-location"></use>
+</svg>
+</div>
+<div class="m-store-search-user-location-loading__notice">
+Position wird bestimmt
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-search-overlay__body-inner">
+<div class="o-store-search-search-overlay__body-content">
+<div class="o-store-search-search-overlay__content-wrapper">
+<div class="o-store-search-search-overlay__suggestions">
+<div class="o-store-search-suggestions-listing" data-module="o-store-search-suggestions-listing">
+<ul class="o-store-search-suggestions-listing__main" data-element="o-store-search-suggestions-listing__main">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-search-overlay__footer">
+<div class="o-store-search-search-overlay__footer-content">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-filter-overlay has-footer" data-module="o-store-search-filter-overlay">
+<div class="o-store-search-filter-overlay__background" data-element="o-store-search-filter-overlay__background"></div>
+<div class="o-store-search-filter-overlay__inner" data-element="o-store-search-filter-overlay__inner">
+<div class="o-store-search-filter-overlay__grid">
+<div class="o-store-search-filter-overlay__container">
+<div class="o-store-search-filter-overlay__container-inner">
+<div class="o-store-search-filter-overlay__header" data-element="o-store-search-filter-overlay__header">
+<div class="o-store-search-filter-overlay__header-inner" data-element="o-store-search-filter-overlay__header-inner">
+<div class="o-store-search-filter-overlay__header-content" data-element="o-store-search-filter-overlay__header-content">
+<span class="a-core-headline is-category has-context-color-bright">
+Service Filter
+</span>
+</div>
+<span class="o-store-search-filter-overlay__close" data-element="o-store-search-filter-overlay__close">
+Abbrechen
+</span>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__body" data-element="o-store-search-filter-overlay__body">
+<div class="o-store-search-filter-overlay__body-fullwidth-content">
+</div>
+<div class="o-store-search-filter-overlay__body-inner">
+<div class="o-store-search-filter-overlay__body-content">
+<div class="o-store-search-filter-overlay__filter-content">
+<div class="o-store-search-filter-overlay__filter-list">
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="pb" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Payback" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="pb">PAYBACK</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="e" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Ernährungsservice" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="e">Ernährungsservice</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="w" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Fischtheke" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="w">Fischtheke</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="fw" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Fleisch- & Wursttheke" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="fw">Fleisch- & Wursttheke</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="gp" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Genuss+" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="gp">Genuss+</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="gs" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Getränkeshop" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="gs">Getränkeshop</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="herpa" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Hermes Paketshop" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="herpa">Hermes Paketshop</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="k" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Käsetheke" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="k">Käsetheke</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="l" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Lieferservice" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="l">Lieferservice</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="pp" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Parkplätze" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="pp">Parkplätze</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="pdhlp" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Postfiliale/DHL Paketshop" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="pdhlp">Postfiliale/DHL Paketshop</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="rgbo" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Regood Bowl" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="rgbo">Regood Bowl</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="rgbe" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Regood Cup" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="rgbe">Regood Cup</label>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__filter-element">
+<div class="a-core-form-field-checkbox">
+<input type="checkbox" name="" id="mss" class="a-core-form-field-checkbox__input" data-element="o-store-search-filter-overlay__filter-element" data-filter-type="assortment" autocomplete="off" data-filter-name="Scan & Go" data-element="m-core-form__input"/>
+<label class="a-core-form-field-checkbox__label" for="mss">Scan & Go</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="o-store-search-filter-overlay__footer">
+<div class="o-store-search-filter-overlay__footer-content">
+<div class="o-store-search-filter-overlay__filter-buttons">
+<button class="a-core-button is-primary has-context-bright" data-element="o-store-search-filter-overlay__submit-filters">
+Nach Services filtern
+</button>
+<a class="a-core-link" href="" data-element="o-store-search-filter-overlay__reset-filters">
+Filter zurücksetzen
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>
+var edeka_b2c_system_texts = {
+"form": {
+"validationErrors": {
+'required': 'Erforderlich',
+'name': 'Ungültiger Vor- oder Nachname',
+'dob': 'Ungültiges Geburtstdatum',
+'street': 'Ungültiger Straßenname',
+'street-number': 'Ungültige Hausnummer',
+'zipcode': 'Ungültige PLZ',
+'city': 'Ungültiger Stadtname',
+'password': 'Ungültiges Passwort',
+'confirm-password': 'Ungültige Passwortbestätigung',
+'email': 'Ungültige E-Mail Adresse',
+'phone': 'Ungültige Telefonnummer',
+'url': 'Ungültige Url',
+'message': 'Ungültige Mitteilung'
+}
+},
+"PositionError": {
+"1": "Bitte aktivieren Sie die Standortabfrage für diese Website, damit Ihre GPS-Position ermittelt werden kann.",
+"2": "Ihre GPS-Position konnte nicht ermittelt werden. Bitte probieren Sie es erneut.",
+"3": "Ihre GPS-Position konnte nicht ermittelt werden. Bitte probieren Sie es erneut.",
+"4": "Ihre GPS-Position konnte nicht ermittelt werden, da Ihr Browser diese Funktion nicht unterstützt."
+},
+"storeSearch": {
+"labels": {
+"route": "Route",
+"onlineShop": "OnlineShop",
+"phone": "Anrufen",
+"mail": "E-Mail",
+"offers": "Angebote",
+"gotoMarket": "Marktseite",
+"saveAsFavoriteStore": "Lieblingsmarkt",
+"saveAsFavoriteStoreWrap": "Lieblings-<br>markt",
+"sectionServices": "Services",
+"sectionAssortment": "Beratung und Sortiment",
+"nearStores": "Märkte in meiner Nähe",
+"wholesaler": "Firma",
+"openingHours": {
+"open": "Geöffnet",
+"close": "Geschlossen",
+"opensAt": "Öffnet um",
+"closesAt": "Schließt um"
+},
+"activeFilters": {
+"singular": "aktiver Filter",
+"plural": "aktive Filter"
+}
+},
+"searchResultsAppend": {
+"button": {
+"label": "Mehr Anzeigen"
+}
+},
+"tracking": {
+"marketDetail": "Marktdetail",
+"marketInformations": "Marktinfos",
+"MarketDetailInformation": "Marktdetailinformationen",
+"marketContact": "Markt kontaktieren",
+"marketContactTelephone": "Telefonisch",
+"marketContactEMail": "E-Mail",
+"marketRoute": "Route berechnen"
+}
+}
+};
+</script>
+<div class="a-core-scroll-to-top" data-module="a-core-scroll-to-top">
+<button class="a-core-circular-icon-button">
+<div class="a-core-circular-icon is-blue is-small">
+<svg class="a-core-icon is-global-core-arrow-up" viewBox="0 0 100 100">
+<title>Zum Seitenanfang</title>
+<use xlink:href="#global-core-arrow-up"></use>
+</svg>
+</div>
+</button>
+</div>
+<div class="m-core-form-consent-overlay  adblock " data-module="m-core-form-consent-overlay"  data-element="m-core-form-consent-overlay">
+    <div class="m-core-form-consent-overlay__message">
+<span class="a-core-headline is-entry has-context-color-bright has-spacing" >
+  Adblocker deaktivieren
+</span>
+	<div  class="m-core-richtext">
+		<p>
+		Sie haben in Ihrem Browser einen AdBlocker aktiviert. Um diese Website in ihrem vollen Funktionsumfang nutzen zu können, empfehlen wir Ihnen, den AdBlocker zu deaktivieren. 
+<br>
+<br>
+ Vielen Dank!
+		</p>
+	</div>
+<button class="a-core-icon-only-button has-context-bright m-core-form-consent-overlay__close-button" > <svg class="a-core-icon is-global-core-close" viewBox="0 0 100 100"> <use xlink:href="#global-core-close"></use> </svg> </button>
+    </div>
+  </div>
+
+
+
+
+	
+
+
+
+	
+	
+		
+	
+<!-- MODULE_START global:core:organism:m402-footer -->
+	<footer class="o-core-m402-footer ">	
+    	<div class="o-core-m402-footer__inner">
+        	<div class="o-core-m402-footer__grid">                    
+	        	<div class="o-core-m402-footer__service">
+	        		<ul class="o-core-m402-footer__service-list">	
+    		        	
+																	                                                                                        
+									
+	                    		<li class="o-core-m402-footer__service-item">
+	                        		<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                        		<a 
+	                        			class="a-core-circular-icon-button has-context-dark has-label-right track-m401-footer-navi" 
+	                        			href="/modulseiten/fragen-und-antworten/fragen_und_antworten.jsp"
+	                        			 
+	                        				data-module="a-core-track-click" 
+											
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Häufige Fragen&quot;,&quot;target&quot;:&quot;/modulseiten/fragen-und-antworten/fragen_und_antworten.jsp&quot;}"
+											
+											data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}"
+										 title="Häufige Fragen">
+										<!-- MODULE_START global:core:atom:circular-icon -->
+			                            <div class="a-core-circular-icon is-yellow is-small">
+			                            	<!-- MODULE_START global:core:atom:icon -->				                            
+											<svg class="a-core-icon is-global-core-faq" viewBox="0 0 100 100">
+	                                        	<use xlink:href="#global-core-faq"></use>
+	                                        </svg>
+	                                        <!-- MODULE_END global:core:atom:icon -->		
+	                                    </div>    
+                                        <span class="a-core-circular-icon-button__label">			                                                    
+											
+												Häufige Fragen
+											</span>
+			                         </a>
+			                         <!-- MODULE_END global:core:atom:circular-icon-button -->
+			                    </li>
+							                                                    	                                        
+						                                                                  									
+						                                                                                    
+	                    	<li class="o-core-m402-footer__service-item">
+	                        	<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                            <a class="a-core-circular-icon-button has-context-dark has-label-right track-m401-footer-navi" href="/modulseiten/kontaktformular/kontaktformular_1.jsp" data-module="a-core-track-click" 
+                                   	data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Kontakt&quot;,&quot;target&quot;:&quot;/modulseiten/kontaktformular/kontaktformular_1.jsp&quot;}"
+									data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" title="Kontakt">
+	                                   	<div class="a-core-circular-icon is-yellow is-small">
+	                                       	<!-- MODULE_START global:core:atom:icon -->
+	                                        <svg class="a-core-icon is-global-core-mail" viewBox="0 0 100 100">
+	                                           	<use xlink:href="#global-core-mail"></use>
+	                                        </svg>
+	                                        <!-- MODULE_END global:core:atom:icon -->
+	                                    </div>    	                                        
+	                                    <span class="a-core-circular-icon-button__label">	                                                    
+											Kontakt
+										</span>	
+	                            </a>
+	                            <!-- MODULE_END global:core:atom:circular-icon-button -->
+                            </li>
+						
+						
+                        	<li class="o-core-m402-footer__service-item">
+								<!-- MODULE_START global:core:atom:circular-icon-button -->
+								<a class="a-core-circular-icon-button has-context-dark has-label-right track-m401-footer-navi" href="tel:0800 3335211" data-module="a-core-track-click" 
+									
+										data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;0800 3335211 *&quot;,&quot;target&quot;:&quot;0800 3335211&quot;}"
+										
+									data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" title="Kontakt">
+									<!-- MODULE_START global:core:atom:circular-icon -->
+									<div class="a-core-circular-icon is-yellow is-small">
+										<!-- MODULE_START global:core:atom:icon -->
+										<svg class="a-core-icon is-global-core-phone" viewBox="0 0 100 100">
+                                        	<use xlink:href="#global-core-phone"></use>
+                                        </svg>
+										<!-- MODULE_END global:core:atom:icon -->
+									</div>
+									<!-- MODULE_END global:core:atom:circular-icon -->
+									<span class="a-core-circular-icon-button__label">
+										
+											
+												0800 3335211
+												
+										</span>
+								</a>									
+                                <!-- MODULE_END global:core:atom:circular-icon-button -->	
+                                <!-- MODULE_START global:core:atom:copy -->
+                                <p class="a-core-copy has-context-color-dark is-small-static">	                                                    
+                                	Mo-So, 8-20 Uhr, kostenfrei aus dem dt. Fest- und Mobilfunknetz
+                                </p>
+								<!-- MODULE_END global:core:atom:copy -->
+							</li>
+													 
+						              
+                    </ul>
+                </div>
+                <div class="o-core-m402-footer__social-and-apps">
+					
+						<div class="o-core-m402-footer__social">
+	                       	<ul class="o-core-m402-footer__social-list">
+	                           	                                    	
+										                                    		
+										
+										
+	                                													
+										<li class="o-core-m402-footer__social-item">
+											<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                                        <a class="a-core-link track-m401-footer-navi" href="https://www.facebook.com/EDEKA" target="_blank" data-link-target="_blank" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20auf%20Facebook&cl_eventtarget=https%3A%2F%2Fwww.facebook.com%2FEDEKA" title="EDEKA auf Facebook" data-module="a-core-track-click" 
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA auf Facebook&quot;,&quot;target&quot;:&quot;https://www.facebook.com/EDEKA&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+												<!-- MODULE_START global:core:atom:circular-icon -->
+												<div class="a-core-circular-icon is-yellow is-small">
+                                            		<!-- MODULE_START global:core:atom:icon -->
+			                                        <svg class="a-core-icon is-global-core-social-facebook" viewBox="0 0 100 100">
+            			                                <use xlink:href="#global-core-social-facebook"></use>
+                        			                </svg>
+                                    			    <!-- MODULE_END global:core:atom:icon -->
+                                        		</div>
+												<!-- MODULE_END global:core:atom:circular-icon -->			
+											</a>
+											<!-- MODULE_END global:core:atom:circular-icon-button -->
+										</li>
+												                                        
+		                                                            	
+										                                    		
+										
+										
+	                                													
+										<li class="o-core-m402-footer__social-item">
+											<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                                        <a class="a-core-link track-m401-footer-navi" href="https://www.pinterest.de/edeka/" target="_blank" data-link-target="_blank" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20auf%20Pinterest&cl_eventtarget=https%3A%2F%2Fwww.pinterest.de%2Fedeka%2F" title="EDEKA auf Pinterest" data-module="a-core-track-click" 
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA auf Pinterest&quot;,&quot;target&quot;:&quot;https://www.pinterest.de/edeka/&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+												<!-- MODULE_START global:core:atom:circular-icon -->
+												<div class="a-core-circular-icon is-yellow is-small">
+                                            		<!-- MODULE_START global:core:atom:icon -->
+			                                        <svg class="a-core-icon is-global-core-social-pinterest" viewBox="0 0 100 100">
+            			                                <use xlink:href="#global-core-social-pinterest"></use>
+                        			                </svg>
+                                    			    <!-- MODULE_END global:core:atom:icon -->
+                                        		</div>
+												<!-- MODULE_END global:core:atom:circular-icon -->			
+											</a>
+											<!-- MODULE_END global:core:atom:circular-icon-button -->
+										</li>
+												                                        
+		                                                            	
+										                                    		
+										
+										
+	                                													
+										<li class="o-core-m402-footer__social-item">
+											<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                                        <a class="a-core-link track-m401-footer-navi" href="https://www.instagram.com/edeka/" target="_blank" data-link-target="_blank" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20auf%20Instagram&cl_eventtarget=https%3A%2F%2Fwww.instagram.com%2Fedeka%2F" title="EDEKA auf Instagram" data-module="a-core-track-click" 
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA auf Instagram&quot;,&quot;target&quot;:&quot;https://www.instagram.com/edeka/&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+												<!-- MODULE_START global:core:atom:circular-icon -->
+												<div class="a-core-circular-icon is-yellow is-small">
+                                            		<!-- MODULE_START global:core:atom:icon -->
+			                                        <svg class="a-core-icon is-global-core-social-instagram" viewBox="0 0 100 100">
+            			                                <use xlink:href="#global-core-social-instagram"></use>
+                        			                </svg>
+                                    			    <!-- MODULE_END global:core:atom:icon -->
+                                        		</div>
+												<!-- MODULE_END global:core:atom:circular-icon -->			
+											</a>
+											<!-- MODULE_END global:core:atom:circular-icon-button -->
+										</li>
+												                                        
+		                                                            	
+										                                    		
+										
+										
+	                                													
+										<li class="o-core-m402-footer__social-item">
+											<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                                        <a class="a-core-link track-m401-footer-navi" href="https://www.youtube.com/edeka?sub_confirmation=1" target="_blank" data-link-target="_blank" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20auf%20YouTube&cl_eventtarget=https%3A%2F%2Fwww.youtube.com%2Fedeka%3Fsub_confirmation%3D1" title="EDEKA auf YouTube" data-module="a-core-track-click" 
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA auf YouTube&quot;,&quot;target&quot;:&quot;https://www.youtube.com/edeka?sub_confirmation=1&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+												<!-- MODULE_START global:core:atom:circular-icon -->
+												<div class="a-core-circular-icon is-yellow is-small">
+                                            		<!-- MODULE_START global:core:atom:icon -->
+			                                        <svg class="a-core-icon is-global-core-social-youtube" viewBox="0 0 100 100">
+            			                                <use xlink:href="#global-core-social-youtube"></use>
+                        			                </svg>
+                                    			    <!-- MODULE_END global:core:atom:icon -->
+                                        		</div>
+												<!-- MODULE_END global:core:atom:circular-icon -->			
+											</a>
+											<!-- MODULE_END global:core:atom:circular-icon-button -->
+										</li>
+												                                        
+		                                                            	
+										                                    		
+										
+										
+	                                	
+		                                	
+	                                    												
+										<li class="o-core-m402-footer__social-item">
+											<!-- MODULE_START global:core:atom:circular-icon-button -->
+	                                        <a class="a-core-link track-m401-footer-navi" href="https://www.youtube.com/yumtamtam?sub_confirmation=1" target="_blank" data-link-target="_blank" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=yumtamtam%20auf%20YouTube&cl_eventtarget=https%3A%2F%2Fwww.youtube.com%2Fyumtamtam%3Fsub_confirmation%3D1" title="yumtamtam auf YouTube" data-module="a-core-track-click" 
+												data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;yumtamtam auf YouTube&quot;,&quot;target&quot;:&quot;https://www.youtube.com/yumtamtam?sub_confirmation=1&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+												<!-- MODULE_START global:core:atom:circular-icon -->
+												<div class="a-core-circular-icon is-yellow is-small">
+                                            		<!-- MODULE_START global:core:atom:icon -->
+			                                        <svg class="a-core-icon is-global-core-social-yumtamtam" viewBox="0 0 100 100">
+            			                                <use xlink:href="#global-core-social-yumtamtam"></use>
+                        			                </svg>
+                                    			    <!-- MODULE_END global:core:atom:icon -->
+                                        		</div>
+												<!-- MODULE_END global:core:atom:circular-icon -->			
+											</a>
+											<!-- MODULE_END global:core:atom:circular-icon-button -->
+										</li>
+												                                        
+		                        	                                        
+	                        </ul>
+	                    </div>    
+                    
+                    
+						
+																					
+						
+		                    <div class="o-core-m402-footer__apps">
+		                       	<ul class="o-core-m402-footer__apps-list">
+		                       		
+		                       			<li class="o-core-m402-footer__apps-item">
+				                        	<!-- MODULE_START global:core:atom:link -->
+				                            <a class="a-core-link" href="https://app.adjust.com/tpnjhw6" target="_blank" data-module="a-core-track-click" 
+				                               	data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;App Store&quot;,&quot;target&quot;:&quot;https://app.adjust.com/tpnjhw6&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+				                                   	<!-- MODULE_START global:core:atom:image -->
+					                                <img class="a-core-image" src="/b2c-design/global/core/assets/organisms/m402-footer/app-store.svg" alt="App Store" title="App Store" />
+					                                <!-- MODULE_END global:core:atom:image -->			
+											</a>
+				                            <!-- MODULE_END global:core:atom:link -->            
+				                        </li>
+		                        	
+		                        	
+										<li class="o-core-m402-footer__apps-item">
+				                           	<!-- MODULE_START global:core:atom:link -->
+				                           	<a class="a-core-link" href="https://play.google.com/store/apps/details?id=de.edeka.genuss&gl=DE" target="_blank" data-module="a-core-track-click" 
+				                               	data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Google Play&quot;,&quot;target&quot;:&quot;https://play.google.com/store/apps/details?id=de.edeka.genuss&gl=DE&quot;}"
+												data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+				                                   	<!-- MODULE_START global:core:atom:image -->
+				                                    <img class="a-core-image" src="/b2c-design/global/core/assets/organisms/m402-footer/google-play.svg" alt="Google Play" title="Google Play" />
+				                                    <!-- MODULE_END global:core:atom:image -->
+										    </a>
+										    <!-- MODULE_END global:core:atom:link -->            
+				                        </li>
+			                        
+			                        
+			                        <li class="o-core-m402-footer__apps-item">
+        								<a class="a-core-link" href="/services/bonusprogramme/payback.jsp">
+          									<img alt="Payback Logo" loading="lazy" width="105" height="40"
+          										srcset="/media/03-design/header/payback-logo.svg 1x, /media/03-design/header/payback-logo.svg 2x" 
+         							 				src="/media/03-design/header/payback-logo.svg" style="color: transparent;">
+         							 	</a>
+		      						</li>
+		                        </ul>
+			                </div>
+			            
+			            
+			        
+			        
+		              	<div class="o-core-m402-footer__newsletter is-desktop">
+		                   	<!-- MODULE_START global:core:atom:headline -->
+		                    <label class="a-core-headline is-category has-context-color-dark" for="newsletter-signup-desktop">
+		                       	Zum Newsletter anmelden
+							</label>
+							<!-- MODULE_END global:core:atom:headline -->
+	                        <!-- MODULE_START global:core:molecule:form -->    
+                           	<form class="m-core-form o-core-m402-footer__newsletter-form"
+		                       	 data-module="a-core-track-click" 
+		                        data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Zum Newsletter anmelden&quot;,&quot;target&quot;:&quot;/newsletter/anmelden.jsp&quot;}"
+								data-tracking-flags="{&quot;uriEncode&quot;:true}"
+		                        action="/newsletter/anmelden.jsp" method="GET" data-eventtype="submit" data-eventcontent="cl_eventname=footer&cl_eventtxt=Zum%20Newsletter%20anmelden&cl_eventtarget=%2Fnewsletter%2Fanmelden.jsp">
+                                <input class="o-core-m402-footer__newsletter-input" type="email" name="person.useremail" placeholder="E-Mail-Adresse" id="newsletter-signup-desktop" />
+		                        <!-- MODULE_START global:core:atom:button -->
+		                        <button class="a-core-button is-primary has-context-dark" type="submit">
+		                          	Zur Anmeldung
+		                        </button>
+		                        <!-- MODULE_END global:core:atom:button -->
+					    	</form>
+					    	<!-- MODULE_END global:core:molecule:form -->    
+	                    </div>
+	                
+				</div>		
+				
+		           	<div class="o-core-m402-footer__newsletter is-mobile">
+		               	<!-- MODULE_START global:core:atom:headline -->
+		                <label class="a-core-headline is-category has-context-color-dark" for="newsletter-signup-mobile">
+		                   	Zum Newsletter anmelden
+						</label>
+						<!-- MODULE_END global:core:atom:headline -->
+	                    <!-- MODULE_START global:core:molecule:form -->    
+                        <form class="m-core-form o-core-m402-footer__newsletter-form"
+		                   	 data-module="a-core-track-click" 
+		                    	data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Zum Newsletter anmelden&quot;,&quot;target&quot;:&quot;/newsletter/anmelden.jsp&quot;}"
+								data-tracking-flags="{&quot;uriEncode&quot;:true}"
+							
+		                    action="/newsletter/anmelden.jsp" method="GET" data-eventtype="submit" data-eventcontent="cl_eventname=footer&cl_eventtxt=Zum%20Newsletter%20anmelden&cl_eventtarget=%2Fnewsletter%2Fanmelden.jsp">
+                            <input class="o-core-m402-footer__newsletter-input" type="email" name="person.useremail" placeholder="E-Mail-Adresse" id="newsletter-signup-mobile" />
+							<!-- MODULE_START global:core:atom:button -->
+		                    <button class="a-core-button is-primary has-context-dark" type="submit">
+		                       	Zur Anmeldung
+		                    </button>
+		                    <!-- MODULE_END global:core:atom:button -->
+						</form>
+						<!-- MODULE_END global:core:molecule:form -->    
+	                </div>
+	            
+	            
+	               	<div class="o-core-m402-footer__nav">
+	                   	<ul class="o-core-m402-footer__nav-list">
+	                       	  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/services/edeka-services.jsp" title="EDEKA Services" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20Services&cl_eventtarget=%2Fservices%2Fedeka-services.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Services&quot;,&quot;target&quot;:&quot;/services/edeka-services.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA Services</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/unsere-marken/produkte/index.jsp" title="EDEKA Produktsuche" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20Produktsuche&cl_eventtarget=%2Funsere-marken%2Fprodukte%2Findex.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Produktsuche&quot;,&quot;target&quot;:&quot;/unsere-marken/produkte/index.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA Produktsuche</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/services/edeka-app/herunterladen-vorteile-sichern/edeka_app.jsp" title="EDEKA App" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20App&cl_eventtarget=%2Fservices%2Fedeka-app%2Fherunterladen-vorteile-sichern%2Fedeka_app.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA App&quot;,&quot;target&quot;:&quot;/services/edeka-app/herunterladen-vorteile-sichern/edeka_app.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA App</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/services/edeka-gutscheinkarte/mehr-zur-karte/verschenken.jsp" title="EDEKA Gutscheinkarte" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20Gutscheinkarte&cl_eventtarget=%2Fservices%2Fedeka-gutscheinkarte%2Fmehr-zur-karte%2Fverschenken.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Gutscheinkarte&quot;,&quot;target&quot;:&quot;/services/edeka-gutscheinkarte/mehr-zur-karte/verschenken.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA Gutscheinkarte</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/unsere-marken/edeka.jsp" title="EDEKA Eigenmarke" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20Eigenmarke&cl_eventtarget=%2Funsere-marken%2Fedeka.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Eigenmarke&quot;,&quot;target&quot;:&quot;/unsere-marken/edeka.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA Eigenmarke</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/unsere-marken/gut-und-guenstig.jsp" title="GUT&G&Uuml;NSTIG" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=GUT%26G%26Uuml%3BNSTIG&cl_eventtarget=%2Funsere-marken%2Fgut-und-guenstig.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;GUT&G&Uuml;NSTIG&quot;,&quot;target&quot;:&quot;/unsere-marken/gut-und-guenstig.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>GUT&G&Uuml;NSTIG</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/services/online-services/edeka-foto/edeka_online_fotoshop.jsp" title="EDEKA Foto" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20Foto&cl_eventtarget=%2Fservices%2Fonline-services%2Fedeka-foto%2Fedeka_online_fotoshop.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA Foto&quot;,&quot;target&quot;:&quot;/services/online-services/edeka-foto/edeka_online_fotoshop.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA Foto</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/services/online-services/mobilfunktarif/edeka-smart.jsp" title="EDEKA smart" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA%20smart&cl_eventtarget=%2Fservices%2Fonline-services%2Fmobilfunktarif%2Fedeka-smart.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA smart&quot;,&quot;target&quot;:&quot;/services/online-services/mobilfunktarif/edeka-smart.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>EDEKA smart</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/rezepte/rezeptkategorien.jsp" title="Rezeptkategorien" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Rezeptkategorien&cl_eventtarget=%2Frezepte%2Frezeptkategorien.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Rezeptkategorien&quot;,&quot;target&quot;:&quot;/rezepte/rezeptkategorien.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>Rezeptkategorien</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="https://www.edeka.de/rezeptwelt/rezepte/suche/" title="Rezeptsuche" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Rezeptsuche&cl_eventtarget=https%3A%2F%2Fwww.edeka.de%2Frezeptwelt%2Frezepte%2Fsuche%2F" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Rezeptsuche&quot;,&quot;target&quot;:&quot;https://www.edeka.de/rezeptwelt/rezepte/suche/&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>Rezeptsuche</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/ernaehrung/tests-und-rechner/bmi-koerpergewicht-pruefen/index.jsp" title="BMI-Rechner" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=BMI-Rechner&cl_eventtarget=%2Fernaehrung%2Ftests-und-rechner%2Fbmi-koerpergewicht-pruefen%2Findex.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;BMI-Rechner&quot;,&quot;target&quot;:&quot;/ernaehrung/tests-und-rechner/bmi-koerpergewicht-pruefen/index.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>BMI-Rechner</a>
+		    	                    </li>
+										    	                                       
+			                  
+	                           	
+			                       	<li class="o-core-m402-footer__nav-item">
+			                           	<a class="a-core-nav-link has-context-color-dark has-icon-right track-m401-footer-navi"  href="/ernaehrung/tests-und-rechner/tagesbedarf-ermitteln/index.jsp" title="Tagesbedarf-Rechner" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Tagesbedarf-Rechner&cl_eventtarget=%2Fernaehrung%2Ftests-und-rechner%2Ftagesbedarf-ermitteln%2Findex.jsp" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Tagesbedarf-Rechner&quot;,&quot;target&quot;:&quot;/ernaehrung/tests-und-rechner/tagesbedarf-ermitteln/index.jsp&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><svg class="a-core-icon is-global-core-button-link" viewBox="0 0 100 100"><use xlink:href="#global-core-button-link"></use></svg>Tagesbedarf-Rechner</a>
+		    	                    </li>
+										    	                                       
+			                
+	                    </ul>
+	                </div>
+				
+				<div class="o-core-m402-footer__bottom">
+					<div class="o-core-m402-footer__bottom-inner">
+						<div class="o-core-m402-footer__claim">
+                            <a href="/" title="Startseite">
+                            	<!-- MODULE_START global:core:atom:image -->
+                                <img class="a-core-image" src="/b2c-design/global/core/assets/images/claim.svg" alt="Wir lieben Lebensmittel" title="Wir ♥ Lebensmittel" />
+                                <!-- MODULE_END global:core:atom:image -->
+                            </a>
+                        </div>
+                        <div class="o-core-m402-footer__legal">
+                           	<ul class="o-core-m402-footer__legal-list">
+								                                
+									
+		                                <li class="o-core-m402-footer__legal-item">
+		                	               	
+													                                    
+		                                   	<a  rel="nofollow" href="/modulseiten/impressum-edeka/impressum_edeka_zentrale.jsp" title="Impressum" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Impressum&cl_eventtarget=%2Fmodulseiten%2Fimpressum-edeka%2Fimpressum_edeka_zentrale.jsp" class="track-m401-footer-navi" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Impressum&quot;,&quot;target&quot;:&quot;&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><span class="a-core-copy has-context-color-dark is-small-static">Impressum</span></a>
+
+
+</li>
+		                            									
+		                        		                                
+								
+									
+									
+		                                <li class="o-core-m402-footer__legal-item">
+		                                   	<a  href="/modulseiten/datenschutzbestimmungen/datenschutzbestimmungen.jsp" title="Datenschutz" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Datenschutz&cl_eventtarget=%2Fmodulseiten%2Fdatenschutzbestimmungen%2Fdatenschutzbestimmungen.jsp" class="track-m401-footer-navi" data-module="a-core-track-click" 
+		data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Datenschutz&quot;,&quot;target&quot;:&quot;&quot;}"
+	    data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}" data-href="/"><span class="a-core-copy has-context-color-dark is-small-static">Datenschutz</span></a>
+
+
+</li>
+	                                
+	                            
+								
+	                               	               	
+										
+			                                <li class="o-core-m402-footer__legal-item">
+			                                   
+<a class="a-core-link track-m401-footer-navi"  target="_blank" data-link-target="_blank" href="https://verbund.edeka/karriere/" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Karriere&cl_eventtarget=https%3A%2F%2Fverbund.edeka%2Fkarriere%2F" data-module="a-core-track-click" 
+			data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Karriere&quot;,&quot;target&quot;:&quot;https://verbund.edeka/karriere/&quot;}"
+        	data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+    <span class="a-core-copy has-context-color-dark is-small-static">Karriere</span>
+</a>
+
+		    	                            </li>
+												    	                                       
+			                                       	
+										
+			                                <li class="o-core-m402-footer__legal-item">
+			                                   
+<a class="a-core-link track-m401-footer-navi"  target="_blank" data-link-target="_blank" href="https://verbund.edeka/karriere/karrierem%C3%B6glichkeiten/f%C3%BCr-sch%C3%BCler/ausbildung-duales-studium/" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Ausbildung&cl_eventtarget=https%3A%2F%2Fverbund.edeka%2Fkarriere%2Fkarrierem%25C3%25B6glichkeiten%2Ff%25C3%25BCr-sch%25C3%25BCler%2Fausbildung-duales-studium%2F" data-module="a-core-track-click" 
+			data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Ausbildung&quot;,&quot;target&quot;:&quot;https://verbund.edeka/karriere/karrierem%C3%B6glichkeiten/f%C3%BCr-sch%C3%BCler/ausbildung-duales-studium/&quot;}"
+        	data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+    <span class="a-core-copy has-context-color-dark is-small-static">Ausbildung</span>
+</a>
+
+		    	                            </li>
+												    	                                       
+			                                       	
+										
+			                                <li class="o-core-m402-footer__legal-item">
+			                                   
+<a class="a-core-link track-m401-footer-navi"  target="_blank" data-link-target="_blank" href="https://verbund.edeka" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=EDEKA-Verbund&cl_eventtarget=https%3A%2F%2Fverbund.edeka" data-module="a-core-track-click" 
+			data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;EDEKA-Verbund&quot;,&quot;target&quot;:&quot;https://verbund.edeka&quot;}"
+        	data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+    <span class="a-core-copy has-context-color-dark is-small-static">EDEKA-Verbund</span>
+</a>
+
+		    	                            </li>
+												    	                                       
+			                                       	
+										
+			                                <li class="o-core-m402-footer__legal-item">
+			                                   
+<a class="a-core-link track-m401-footer-navi"  target="_blank" data-link-target="_blank" href="https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/menschenrechte/" data-eventtype="click" data-eventcontent="cl_eventname=footer&cl_eventtxt=Human%20Rights&cl_eventtarget=https%3A%2F%2Fverbund.edeka%2Fverantwortung%2Fhandlungsfelder%2Fgesellschaft%2Fmenschenrechte%2F" data-module="a-core-track-click" 
+			data-tracking-config="{&quot;event&quot;:&quot;atiEvent&quot;,&quot;regionId&quot;:&quot;&quot;,&quot;marketId&quot;:&quot;&quot;,&quot;atiPage&quot;:&quot;Marktsuche&quot;,&quot;atiLevel2&quot;:&quot;2&quot;,&quot;atiEvent1&quot;:&quot;Navigation&quot;,&quot;atiEvent2&quot;:&quot;Footer&quot;,&quot;atiEvent3&quot;:&quot;Human Rights&quot;,&quot;target&quot;:&quot;https://verbund.edeka/verantwortung/handlungsfelder/gesellschaft/menschenrechte/&quot;}"
+        	data-tracking-wait="true" data-tracking-flags="{&quot;uriEncode&quot;:true}">
+    <span class="a-core-copy has-context-color-dark is-small-static">Human Rights</span>
+</a>
+
+		    	                            </li>
+												    	                                       
+			                        
+								 	                                
+                            </ul>
+                        </div>
+					</div>
+				</div>
+            </div>
+        </div>
+    </footer>
+<!-- MODULE_END global:core:organism:m402-footer --></div>
+<script>
+var edeka_b2c_config = edeka_b2c_config || {};
+edeka_b2c_config.HERE_API_KEY = 'xa1SjoU53zI1qvkGq4ZHBNzxg-ZwnMGZTL4uCNf11Bc';
+edeka_b2c_config.SAVE_COOKIE_ENDPOINT = '/set2session.jsp';
+edeka_b2c_config.MARKET_SNIPPET_ENDPOINT_PATH = 'https://www.edeka.de/api/market-gateway';
+edeka_b2c_config.TRACKING_TAG_MANAGEMENT = true;
+</script>
+<script src="/b2c-design/global/core/js/core.js?version=1.10.3"></script>
+<script src="/b2c-design/features/store-search/js/store-search.js?version=1.10.3"></script>
+<script src="/b2c-design/features/retailer/js/retailer.js?version=1.10.3"></script>
+</body>
+</html>
