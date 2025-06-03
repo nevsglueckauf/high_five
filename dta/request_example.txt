@@ -1,0 +1,7 @@
+## Nix zu sehen - nur  Request Beispiele - to b C&Ped
+
+GET / HTTP/1.1
+
+
+GET /?id=34 HTTP/1.1
+
