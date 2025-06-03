@@ -6,7 +6,9 @@ from typing import Self
 class LocationFinder:
     """  Lokations-/Geoinformation zu verschiedenen Interessen finden
     
-        Z.B: cty: 'Berlin' / obj: 'supermarkt' 
+        Z.B: 
+            - cty: 'Berlin' 
+            - obj: 'supermarkt' 
 
     """
     

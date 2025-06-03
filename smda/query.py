@@ -12,7 +12,7 @@ class Query:
         );
         out center;
         """
-
+    
 
 
     def __init__(self):

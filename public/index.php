@@ -1,25 +1,21 @@
 <?php
-
-$st_lne = implode(' ', [$_SERVER['SERVER_PROTOCOL'], http_response_code(), ]);
-
+require_once 'Reflector.php';
+date_default_timezone_set('Europe/Berlin');
+$r = new HttpReflector();
 ?>
-
+<!DOCTYPE html>
+<html>
+<head>
+<title><?=$r::class?> sayz @<?=date('y-m-d H:i:s')?>:</title>
+</head>
+<body>
 <pre>
-<code>
-<?php
- 
-
-if (count($_GET)) {
-    print_r($_REQUEST);
-} else {
-    print 'No Data sent';
-    
-}
-?>
-
-
+<code><?=$r->init();?>
 </code>
-
-
-
 </pre>
+<hr>
+<pre>
+    <kbd><?=$r->reqH()?></kbd>
+</pre>
+</body>
+</html>

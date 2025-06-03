@@ -1,7 +1,15 @@
 ## Nix zu sehen - nur  Request Beispiele - to b C&Ped
 
+## No Payload today
 GET / HTTP/1.1
 
 
 GET /?id=34 HTTP/1.1
+
+
+## POST/PUT mit Payload
+
+- Zeile 1 - Request Line
+- Zeile 2 (+) Payload
+
 
