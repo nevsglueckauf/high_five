@@ -33,7 +33,7 @@ class HttpReflector
 
         if ($this->m == 'DELETE') {
 
-            $this->params = array_merge($this->params, $this->fromStdin);
+            $this->params = array_merge($this->fromStdin);
         }
 
         if ($this->m == 'POST') $this->params = array_merge($this->params, $_POST);

@@ -26,3 +26,4 @@ with (open(cty + 'json', 'w')) as f:
         f.write(response.text)        
         
 #print(response.json()['elements'].head(2))
+# https://swapi.co/api/people/1/
