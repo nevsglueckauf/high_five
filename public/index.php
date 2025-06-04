@@ -13,7 +13,9 @@ foreach ($dta as $p) {
     $item->first_name = $p[0];
     $item->last_name = $p[1];
     $item->mail = $p[3];
+    $item->id = md5($p[3]);
     $names[] = $item;
+    
 }
 
 $ffo = serialize($names);
