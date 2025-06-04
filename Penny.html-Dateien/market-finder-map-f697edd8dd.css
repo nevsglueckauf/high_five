@@ -1,0 +1,103 @@
+.market-finder__map{
+  border-radius:0 0 .9375rem .9375rem;
+  height:100%;
+  inset:0;
+  overflow:hidden;
+  position:absolute;
+  width:100%;
+}
+.market-finder__map-wrapper{
+  height:calc(100vh - .9375rem);
+  margin-bottom:-2rem;
+  margin-top:-11.875rem;
+  max-width:100%;
+  position:relative;
+  width:100vw;
+}
+@media (min-width:768px){
+  .market-finder__map-wrapper{
+    margin-top:-10rem;
+  }
+}
+@media (min-width:960px){
+  .market-finder__map-wrapper{
+    height:100vh;
+    margin-bottom:-4rem;
+  }
+}
+.market-finder__map-container{
+  height:15.75rem;
+  position:relative;
+  width:100%;
+}
+@media (min-width:960px){
+  .market-finder__map-container{
+    height:25rem;
+  }
+}
+.market-finder__map--active{
+  border-radius:.9375rem;
+}
+.market-finder__info-window .gm-style-iw{
+  font:600 .9375rem/normal "Open Sans", "OS-Fallback-Arial", "OS-Fallback-Roboto", system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+}
+@media (min-width:960px){
+  .market-finder__info-window .gm-style-iw{
+    font-size:1.25rem !important;
+  }
+}
+.market-finder__info-window .gm-style-iw button{
+  background:hsl(var(--white)) !important;
+  border-radius:50% !important;
+  inset:1rem 1rem 0 auto !important;
+  opacity:1 !important;
+  position:absolute !important;
+}
+.market-finder__info-window .gm-style-iw button span{
+  background-color:hsl(var(--red)) !important;
+}
+.market-finder__info-window .gm-style-iw-c{
+  border-radius:.9375rem !important;
+  overflow:visible;
+  padding:0 !important;
+}
+.market-finder__info-window .gm-style-iw-d{
+  overflow:hidden !important;
+}
+.market-finder__info-window .gm-style-iw-ch,.market-finder__info-window .gm-style-iw-tc{
+  display:none !important;
+}
+.market-finder__btn-toggle,.market-finder__btn-toggle--teleport{
+  bottom:6.5rem;
+  margin-inline:auto;
+  position:sticky;
+  width:fit-content;
+}
+@media (min-width:960px){
+  .market-finder__btn-toggle,.market-finder__btn-toggle--teleport{
+    bottom:2.5rem;
+  }
+}
+.market-finder__btn-toggle{
+  display:flex;
+  left:auto;
+  margin-inline:auto;
+}
+@media (max-width:959px){
+  .market-finder__btn-toggle{
+    padding-block:.25rem;
+  }
+}
+.market-finder__btn-toggle.btn:focus{
+  position:sticky;
+}
+.market-finder__btn-toggle.is-map{
+  bottom:2.5rem;
+  left:50%;
+  position:absolute;
+  transform:translateX(-50%);
+}
+.market-finder__btn-toggle.is-map.btn:focus{
+  position:absolute;
+}
+/*# sourceMappingURL=market-finder-map-f697edd8dd.css.map */

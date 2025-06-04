@@ -1,0 +1,778 @@
+@font-face {
+    font-family: 'netto-icons';src:url("netto-icons.min.woff2?aa13e924") format("woff2"),
+            url("netto-icons.min.woff?aa13e924") format("woff");font-weight: normal;
+    font-style: normal;
+}
+
+[class^="ico"], [class*=" ico"] {
+    font-family: 'netto-icons', sans-serif !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+}
+
+
+.ico-account::before {
+    content: "\ea01";
+}
+
+.ico-cart::before {
+    content: "\ea02";
+}
+
+.ico-catalog::before {
+    content: "\ea03";
+}
+
+.ico-location::before {
+    content: "\ea04";
+}
+
+.ico-search::before {
+    content: "\ea05";
+}
+
+.ico-check::before {
+    content: "\ea06";
+}
+
+.ico-close-bold::before {
+    content: "\ea07";
+}
+
+.ico-close::before {
+    content: "\ea08";
+}
+
+.ico-edit::before {
+    content: "\ea09";
+}
+
+.ico-menu::before {
+    content: "\ea0a";
+}
+
+.ico-sorting::before {
+    content: "\ea0b";
+}
+
+.ico-trash::before {
+    content: "\ea0c";
+}
+
+.ico-exclamation-circle::before {
+    content: "\ea0d";
+}
+
+.ico-headline_filiale::before {
+    content: "\ea0e";
+}
+
+.ico-headline_reisen::before {
+    content: "\ea0f";
+}
+
+.ico-headline_shop::before {
+    content: "\ea10";
+}
+
+.ico-headline_vorteilswelt::before {
+    content: "\ea11";
+}
+
+.ico-toggle-filter::before {
+    content: "\ea12";
+}
+
+.ico-slide-arrow-down::before {
+    content: "\ea13";
+}
+
+.ico-slide-arrow-left::before {
+    content: "\ea14";
+}
+
+.ico-slide-arrow-right::before {
+    content: "\ea15";
+}
+
+.ico-slide-arrow-up::before {
+    content: "\ea16";
+}
+
+.ico-store-backery::before {
+    content: "\ea17";
+}
+
+.ico-store-meat::before {
+    content: "\ea18";
+}
+
+.ico-store-service-meat::before {
+    content: "\ea19";
+}
+
+.ico-store-uhr::before {
+    content: "\ea1a";
+}
+
+.ico-store-wlan::before {
+    content: "\ea1b";
+}
+
+.ico-cart-hover::before {
+    content: "\ea1c";
+}
+
+.ico-list-hover::before {
+    content: "\ea1d";
+}
+
+.ico-list::before {
+    content: "\ea1e";
+}
+
+.ico-play-hover::before {
+    content: "\ea1f";
+}
+
+.ico-play::before {
+    content: "\ea20";
+}
+
+.ico-play2::before {
+    content: "\ea21";
+}
+
+.ico-recipe-hover::before {
+    content: "\ea22";
+}
+
+.ico-recipe::before {
+    content: "\ea23";
+}
+
+.ico-small-arrow-down::before {
+    content: "\ea24";
+}
+
+.ico-small-arrow-left::before {
+    content: "\ea25";
+}
+
+.ico-small-arrow-right::before {
+    content: "\ea26";
+}
+
+.ico-small-arrow-up::before {
+    content: "\ea27";
+}
+
+.ico-stern::before {
+    content: "\ea28";
+}
+
+.ico-stern_halb::before {
+    content: "\ea29";
+}
+
+.ico-info::before {
+    content: "\ea2a";
+}
+
+.ico-minus::before {
+    content: "\ea2b";
+}
+
+.ico-plus::before {
+    content: "\ea2c";
+}
+
+.ico-rating-contra::before {
+    content: "\ea2d";
+}
+
+.ico-rating-pro::before {
+    content: "\ea2e";
+}
+
+.ico-smiley::before {
+    content: "\ea2f";
+}
+
+.ico-bullet::before {
+    content: "\ea30";
+}
+
+.ico-fullscreen::before {
+    content: "\ea31";
+}
+
+.ico-search-zoom::before {
+    content: "\ea32";
+}
+
+.ico-packstation::before {
+    content: "\ea33";
+}
+
+.ico-error::before {
+    content: "\ea34";
+}
+
+.ico-filiale::before {
+    content: "\ea35";
+}
+
+.ico-mail::before {
+    content: "\ea36";
+}
+
+.ico-newsletter::before {
+    content: "\ea37";
+}
+
+.ico-password::before {
+    content: "\ea38";
+}
+
+.ico-sweepstake::before {
+    content: "\ea39";
+}
+
+.ico-arrow-sway::before {
+    content: "\ea3a";
+}
+
+.ico-reset-filter::before {
+    content: "\ea3b";
+}
+
+.ico-copy::before {
+    content: "\ea3c";
+}
+
+.ico-angebote-2::before {
+    content: "\ea3d";
+}
+
+.ico-angebote_diehoehlederloewen::before {
+    content: "\ea3e";
+}
+
+.ico-angebote_fanshops::before {
+    content: "\ea3f";
+}
+
+.ico-angebote_filialwochenangebote::before {
+    content: "\ea40";
+}
+
+.ico-angebote_gewinnspiele::before {
+    content: "\ea41";
+}
+
+.ico-angebote_onlinewochenangebote::before {
+    content: "\ea42";
+}
+
+.ico-angebote_preissenkung::before {
+    content: "\ea43";
+}
+
+.ico-angebote_prospekt::before {
+    content: "\ea44";
+}
+
+.ico-angebote_warenverkaufsstop::before {
+    content: "\ea45";
+}
+
+.ico-deutschlandcard::before {
+    content: "\ea46";
+}
+
+.ico-drogerie::before {
+    content: "\ea47";
+}
+
+.ico-drogerie_babybedarf::before {
+    content: "\ea48";
+}
+
+.ico-drogerie_beautygesundheit::before {
+    content: "\ea49";
+}
+
+.ico-drogerie_gesundheit::before {
+    content: "\ea4a";
+}
+
+.ico-drogerie_haushaltsbedarf::before {
+    content: "\ea4b";
+}
+
+.ico-drogerie_kontaktlinsenbrillen::before {
+    content: "\ea4c";
+}
+
+.ico-drogerie_pflegeprodukte::before {
+    content: "\ea4d";
+}
+
+.ico-drogerie_sportnahrungergaenzung::before {
+    content: "\ea4e";
+}
+
+.ico-drogerie_tiernahrungstreu::before {
+    content: "\ea4f";
+}
+
+.ico-dummy_rezeptunterkategorien::before {
+    content: "\ea50";
+}
+
+.ico-fotoshop::before {
+    content: "\ea51";
+}
+
+.ico-freizeit::before {
+    content: "\ea52";
+}
+
+.ico-freizeit_autozweirad::before {
+    content: "\ea53";
+}
+
+.ico-freizeit_buecherhoerbuechercds::before {
+    content: "\ea54";
+}
+
+.ico-freizeit_campingreisen::before {
+    content: "\ea55";
+}
+
+.ico-freizeit_gutscheinideeneintrittskarten::before {
+    content: "\ea56";
+}
+
+.ico-freizeit_hobbymehr::before {
+    content: "\ea57";
+}
+
+.ico-freizeit_indoorsport::before {
+    content: "\ea58";
+}
+
+.ico-freizeit_kinderbedarf::before {
+    content: "\ea59";
+}
+
+.ico-freizeit_mode::before {
+    content: "\ea5a";
+}
+
+.ico-freizeit_mode_arbeitsbekleidung::before {
+    content: "\ea5b";
+}
+
+.ico-freizeit_mode_damen::before {
+    content: "\ea5c";
+}
+
+.ico-freizeit_mode_herren::before {
+    content: "\ea5d";
+}
+
+.ico-freizeit_mode_kinder::before {
+    content: "\ea5e";
+}
+
+.ico-freizeit_mode_sportbekleidung::before {
+    content: "\ea5f";
+}
+
+.ico-freizeit_sportarten::before {
+    content: "\ea60";
+}
+
+.ico-garten::before {
+    content: "\ea61";
+}
+
+.ico-garten_bewaesserung::before {
+    content: "\ea62";
+}
+
+.ico-garten_carportsgaragen::before {
+    content: "\ea63";
+}
+
+.ico-garten_gartenausstattung::before {
+    content: "\ea64";
+}
+
+.ico-garten_gartengeraetehaeuser::before {
+    content: "\ea65";
+}
+
+.ico-garten_gartenmoebel::before {
+    content: "\ea66";
+}
+
+.ico-garten_gartenpflege::before {
+    content: "\ea67";
+}
+
+.ico-garten_gartentechnik::before {
+    content: "\ea68";
+}
+
+.ico-garten_grillsgartenkamine::before {
+    content: "\ea69";
+}
+
+.ico-garten_terrassenbalkone::before {
+    content: "\ea6a";
+}
+
+.ico-haushalt::before {
+    content: "\ea6b";
+}
+
+.ico-haushalt_beem::before {
+    content: "\ea6c";
+}
+
+.ico-haushalt_elektrogrossgeraete::before {
+    content: "\ea6d";
+}
+
+.ico-haushalt_geschirrbesteck::before {
+    content: "\ea6e";
+}
+
+.ico-haushalt_haushaltsgeraete::before {
+    content: "\ea6f";
+}
+
+.ico-haushalt_kochenbacken::before {
+    content: "\ea70";
+}
+
+.ico-haushalt_kuechenkleingeraete::before {
+    content: "\ea71";
+}
+
+.ico-haushalt_muelleimer::before {
+    content: "\ea72";
+}
+
+.ico-haushalt_multimediatechnik::before {
+    content: "\ea73";
+}
+
+.ico-heimwerken::before {
+    content: "\ea74";
+}
+
+.ico-heimwerken_badsanitaer::before {
+    content: "\ea75";
+}
+
+.ico-heimwerken_bauenrenovieren::before {
+    content: "\ea76";
+}
+
+.ico-heimwerken_smarthome::before {
+    content: "\ea77";
+}
+
+.ico-heimwerken_waeschespinnen::before {
+    content: "\ea78";
+}
+
+.ico-heimwerken_werkstatteinrichtungen::before {
+    content: "\ea79";
+}
+
+.ico-karriere::before {
+    content: "\ea7a";
+}
+
+.ico-kategoriehelden::before {
+    content: "\ea7b";
+}
+
+.ico-lebensmittel::before {
+    content: "\ea7c";
+}
+
+.ico-lebensmittel_brotbackwarenmuesli::before {
+    content: "\ea7d";
+}
+
+.ico-lebensmittel_getraenke::before {
+    content: "\ea7e";
+}
+
+.ico-lebensmittel_kaese::before {
+    content: "\ea7f";
+}
+
+.ico-lebensmittel_kaffeeteekakao::before {
+    content: "\ea80";
+}
+
+.ico-lebensmittel_konservenfertiggerichte::before {
+    content: "\ea81";
+}
+
+.ico-lebensmittel_nudelnreiskartoffelprodukte::before {
+    content: "\ea82";
+}
+
+.ico-lebensmittel_suesswarenknabbereien::before {
+    content: "\ea83";
+}
+
+.ico-lebensmittel_themenwelten::before {
+    content: "\ea84";
+}
+
+.ico-lebensmittel_vorratspacks::before {
+    content: "\ea85";
+}
+
+.ico-lebensmittel_wuerzmittelsossen::before {
+    content: "\ea86";
+}
+
+.ico-lebensmittel_wurstfleisch::before {
+    content: "\ea87";
+}
+
+.ico-lebensmittel_zuckerbackendessert::before {
+    content: "\ea88";
+}
+
+.ico-nettokom::before {
+    content: "\ea89";
+}
+
+.ico-reisen::before {
+    content: "\ea8a";
+}
+
+.ico-reisen_eigenanreisen::before {
+    content: "\ea8b";
+}
+
+.ico-reisen_flughotel::before {
+    content: "\ea8c";
+}
+
+.ico-reisen_hotelgutscheine::before {
+    content: "\ea8d";
+}
+
+.ico-reisen_kreuzfahrten::before {
+    content: "\ea8e";
+}
+
+.ico-reisen_rundreisen::before {
+    content: "\ea8f";
+}
+
+.ico-reisen_skireisen::before {
+    content: "\ea90";
+}
+
+.ico-reisen_staedtereisen::before {
+    content: "\ea91";
+}
+
+.ico-rezept_ernaehrungsform::before {
+    content: "\ea92";
+}
+
+.ico-rezept_menue::before {
+    content: "\ea93";
+}
+
+.ico-rezept_saisonanlass::before {
+    content: "\ea94";
+}
+
+.ico-rezept_zubereitung::before {
+    content: "\ea95";
+}
+
+.ico-sale::before {
+    content: "\ea96";
+}
+
+.ico-spirituosen::before {
+    content: "\ea97";
+}
+
+.ico-uebernetto::before {
+    content: "\ea98";
+}
+
+.ico-vorteilswelt::before {
+    content: "\ea99";
+}
+
+.ico-weihnachten::before {
+    content: "\ea9a";
+}
+
+.ico-wein::before {
+    content: "\ea9b";
+}
+
+.ico-wohnen::before {
+    content: "\ea9c";
+}
+
+.ico-wohnen_babyzimmer::before {
+    content: "\ea9d";
+}
+
+.ico-wohnen_badezimmer::before {
+    content: "\ea9e";
+}
+
+.ico-wohnen_buerodiele::before {
+    content: "\ea9f";
+}
+
+.ico-wohnen_kuechen::before {
+    content: "\eaa0";
+}
+
+.ico-wohnen_schlafzimmer::before {
+    content: "\eaa1";
+}
+
+.ico-wohnen_wohnaccessoires::before {
+    content: "\eaa2";
+}
+
+.ico-wohnen_wohnesszimmer::before {
+    content: "\eaa3";
+}
+
+.ico-wecker::before {
+    content: "\eaa4";
+}
+
+.ico-xmas-cap::before {
+    content: "\eaa5";
+}
+
+.ico-youtube::before {
+    content: "\eaa6";
+}
+
+.ico-quotes_anfang::before {
+    content: "\eaa7";
+}
+
+.ico-quotes_ende::before {
+    content: "\eaa8";
+}
+
+.ico-upload::before {
+    content: "\eaa9";
+}
+
+.ico-nachhaltigkeit::before {
+    content: "\eaaa";
+}
+
+.ico-telefon::before {
+    content: "\eaab";
+}
+
+.ico-blaetterkatalog_home::before {
+    content: "\eaac";
+}
+
+.ico-kalender::before {
+    content: "\eaad";
+}
+
+.ico-bell::before {
+    content: "\eaae";
+}
+
+.ico-plus_circled::before {
+    content: "\eaaf";
+}
+
+.ico-present::before {
+    content: "\eab0";
+}
+
+.ico-KwK::before {
+    content: "\eab1";
+}
+
+.ico-tick_circled::before {
+    content: "\eab2";
+}
+
+.ico-promotion-discount::before {
+    content: "\eab3";
+}
+
+.ico-icon_toc::before {
+    content: "\eab4";
+}
+
+.ico-status_Auftrag::before {
+    content: "\eab5";
+}
+
+.ico-status_Bearbeitung::before {
+    content: "\eab6";
+}
+
+.ico-status_Gutschrift::before {
+    content: "\eab7";
+}
+
+.ico-status_Retoure::before {
+    content: "\eab8";
+}
+
+.ico-status_Storniert::before {
+    content: "\eab9";
+}
+
+.ico-status_Uhr::before {
+    content: "\eaba";
+}
+
+.ico-status_Versendet::before {
+    content: "\eabb";
+}
+
+.ico-ausrufezeichen::before {
+    content: "\eabc";
+}
+
+.ico-bestand::before {
+    content: "\eabd";
+}
+
+.ico-reduziert::before {
+    content: "\eabe";
+}
+
+.ico-stern_transparent::before {
+    content: "\eabf";
+}
+

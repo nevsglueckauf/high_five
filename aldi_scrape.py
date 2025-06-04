@@ -1,20 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
 
-
-
 BSE_URI = 'https://filialen.aldi-sued.de/'
 
 
-with open('tmp/aldi.html') as f:
+with open('Penny.html') as f:
     html = f.read()
 
 soup = BeautifulSoup(html, 'html.parser')
 
-refs = soup.find_all('a', attrs={'data-ya-track': 'todirectory'})
-
-print(type(refs))
-
+refs = soup.find_all('h2', attrs={'class': 'market-tile'})
+ 
 for item in refs:
-    print(BSE_URI + item['href'])
+    print(item.text)
     #print(type(item))
