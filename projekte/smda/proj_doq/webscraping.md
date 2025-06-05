@@ -7,7 +7,7 @@ Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der 
 ### HTML-Parsing ist eklig
 
 Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> genannten) Suchraumes des Internets finden sich zahlreiche Probleme für das Informationsmanagement:
-- oft in Form von Markup-Sprachen[^1] - vorranging HTML!
+- oft in Form von Markup-Sprachen[^1] - vorrangig HTML!
 
 1. Man kommt mit "normalen" Tools wie (```sed/awk/grep/pcre/pyon re```) nicht weit(er)
 
