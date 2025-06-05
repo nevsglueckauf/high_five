@@ -12,7 +12,7 @@ result = parser.prs_penny(dta)
 ```
 
 ```zsh
-
+# Ausgabe:
 ['Willy-Brandt-Ring 17', '08606 Oelsnitz']
 ['Pforzheimer Str. 55', '71665 Vaihingen-Horrheim']
 ['Hochfelder Landstraße 23', '24943 Flensburg']
