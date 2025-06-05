@@ -4,8 +4,10 @@ from bs4 import BeautifulSoup
 
 
 class Scraper:
-    """Scraping HTTP resources
-    -
+    """ Scraping HTTP resources via
+        - HTTP GET
+        - HTTP PUT
+        - HTTP POST
     """
 
     BSE_URI_ALDI = "https://filialen.aldi-sued.de/"
@@ -15,7 +17,7 @@ class Scraper:
     BSE_URI_PENNY = "https://www.penny.de/marktsuche/"
 
     def prc_req(self, uri:str, mtd:str = "GET", dta: dict = {}, hds: dict = {}):
-        """Prozessiert HTTP Request
+        """ Prozessiert HTTP Request
 
         Args:
             uri (str): Endpoint
