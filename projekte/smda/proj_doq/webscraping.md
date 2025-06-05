@@ -9,14 +9,14 @@ Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der 
 ### HTML-Parsing ist eklig
 
 Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> genannten) Suchraumes des Internets finden sich zahlreiche Probleme für das Informationsmanagement:
-- vornehmlich in Form von Abkömmlingen des SGML oder XML - vorranging HTML!
+- vornehmlich in Form von Abkömmlingen des SGML oder XML[^1] - vorranging HTML!
 
-1. Man kommt mit "normalen" Tools wie (``` sed/awk/grep```) nicht weit(er)
+1. Man kommt mit "normalen" Tools wie (```sed/awk/grep/pcre/pyon re```) nicht weit(er)
 
 2. Es benötigt der Hilfe eines sog. <var>Parser</var>s
     -  In Unkenntnis der indiv. Struktur des Dokumentes betreiben wir also <var>Reverse Engineering</var> und lernen:
         - <u>nicht</u> wohlgeformte Dokumente (welche keine Ausnahme sind) legen Parser "auf die Nase"
-            - hier können Tools wie ``` tidy``` helfen
+            - hier können Tools wie ```tidy``` helfen
         - Die Untersuchung der vorgefundenen (HTML-)Strukturen stellen uns vor das Problem: wir müssen diese unteruschen und können dann
             - a. Geeignete <var>Selektoren</var> formulieren
             - b. Reduntante oder nicht benötigte Informationen ausfiltern
@@ -49,7 +49,7 @@ sequenceDiagram
     rect rgb(222, 86, 170)
         loop 
             SP-->Py: for item in <class 'bs4.element.ResultSet'>
-            Py-->Py: get item['href']
+            Py-->Py: get item['href'] ...
         end
     end
     rect rgb(96, 98, 226)
@@ -65,3 +65,12 @@ sequenceDiagram
     end    
 
 ```
+
+
+
+
+
+
+--- 
+
+[^1]: meist HTML auf SGML-Basis gebaut, oder auf Basis von XML, wie XHMTL oder schlimmmeres à la SOAP 
