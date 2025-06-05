@@ -12,7 +12,7 @@ class Scraper:
 
     LST_NRW_ALSI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
 
-    def prc_req(uri: str, mtd: str = "GET", dta: dict = {}, hds: dict = {}):
+    def prc_req(self, uri:str, mtd:str = "GET", dta: dict = {}, hds: dict = {}):
         """Prozessiert HTTP Request
 
         Args:
@@ -27,35 +27,24 @@ class Scraper:
         Returns:
             _type_: _description_
         """
-
+  
         match mtd:
             case "GET":
-                return requests.get(uri=uri, data=dta, headers=hds)
+                res =  requests.get(url=uri, data=dta, headers=hds)
             case "PUT":
-                return requests.put(uri=uri, data=dta, headers=hds)
+                res =  requests.put(url=uri, data=dta, headers=hds)
             case "POST":
-                return requests.post(uri=uri, data=dta, headers=hds)
-            case _:
-                raise ValueError("Unbekannte Methode")
+                res =  requests.post(url=uri, data=dta, headers=hds)
+           
+        return res
 
-    def prc_sts_cde(cde: int):
-
-        match cde:
-            case 200:
-                print("OK")
-            case 400 | 403 | 404:
-                print("Client Error")
-            case 500:
-                print("Server Error")
-            case _:
-                print("Unknown error")
-
+   
     def walk(
         self, uris: list = [], mtd: str = "GET", dta: dict = {}, hds: dict = {}
     ) -> list:
         one_hd = False
         one_dta = False
-        rts = []  # Ergibnisliste mit Responses
+        rts = []  # Ergebnisliste mit Responses
 
         if len(hds) == 1:
             one_hd = True
@@ -71,11 +60,17 @@ class Scraper:
         return rts
 
 
-s = Scraper()
-s.walk(
-    [
-        "https://filialen.aldi-sued.de/",
-        "https://filialen.aldi-sued.de/nordrhein-westfalen",
-        "https://foo.example.org/bar",
-    ]
-)
+    def prc_sts_cde(cde: int):
+
+        match cde:
+            case 200:
+                print("OK")
+            case 400 | 403 | 404:
+                print("Client Error")
+            case 500:
+                print("Server Error")
+            case _:
+                print("Unknown error")
+
+
+

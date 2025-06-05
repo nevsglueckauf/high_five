@@ -28,13 +28,13 @@ class Parser:
                 {
                     "name": marktname,
                     "addr_raw": adresse,
-                    "address": self.prse_penny_addr(adresse.strip()),
+                    "address": self.prs_penny_addr(adresse.strip()),
                 }
             )
 
         return tmp
 
-    def prs_penny_addr(raw: str) -> str:
+    def prs_penny_addr(self, raw: str) -> str:
         tmp = raw.split("\n")
         print(tmp)
 

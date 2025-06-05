@@ -11,6 +11,20 @@ dta = scraper.prc_req('https://www.penny.de/marktsuche/')
 result = parser.prs_penny(dta)
 ```
 
+```zsh
+
+['Willy-Brandt-Ring 17', '08606 Oelsnitz']
+['Pforzheimer Str. 55', '71665 Vaihingen-Horrheim']
+['Hochfelder Landstraße 23', '24943 Flensburg']
+['Bahnhofstr. 32', '79400 Kandern']
+['Am Mühlbach 1', '61209 Echzell']
+['Molkenbornstr. 2-4', '63743 Aschaffenburg']
+['Schleissheimer Str.  267', '80809 München']
+['Ruppiner Chaussee 243', '13503 Berlin']
+['Frankenhäuser Str. 23', '06537 Kelbra']
+['Wismarsche Straße 152', '23936 Grevesmühlen']
+```
+
 
 
 ```python
@@ -31,7 +45,7 @@ class Scraper:
 
     LST_NRW_ALSI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
 
-    def prc_req(uri: str, mtd: str = "GET", dta: dict = {}, hds: dict = {}):
+    def prc_req(uri: str, mtd:str = "GET", dta: dict = {}, hds: dict = {}):
         """Prozessiert HTTP Request
 
         Args:
@@ -46,16 +60,19 @@ class Scraper:
         Returns:
             _type_: _description_
         """
-
+        print(mtd)
+        exit()
         match mtd:
             case "GET":
-                return requests.get(uri=uri, data=dta, headers=hds)
+                res = requests.get(uri=uri, data=dta, headers=hds)
             case "PUT":
-                return requests.put(uri=uri, data=dta, headers=hds)
+                res = requests.put(uri=uri, data=dta, headers=hds)
             case "POST":
-                return requests.post(uri=uri, data=dta, headers=hds)
+                res = requests.post(uri=uri, data=dta, headers=hds)
             case _:
                 raise ValueError("Unbekannte Methode")
+        
+        return res
 
     def prc_sts_cde(cde: int):
 
