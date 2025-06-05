@@ -1,6 +1,6 @@
 # Webscraping
 
-## Preface 
+## Vorbemerkung 
 
 Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der erhaltenen Responses, sondern das Parsen des erhaltenen Contents.
 
@@ -44,7 +44,7 @@ sequenceDiagram
             note over Py, SP: (<class 'bs4.element.ResultSet'>)
             rect rgb(222, 86, 170)
             loop 
-                Ptython_Parser-->Py: for item in <class 'bs4.element.ResultSet'>
+                SP-->Py: for item in <class 'bs4.element.ResultSet'>
                 Py-->Py: get item['href'] ...
             end
     end
