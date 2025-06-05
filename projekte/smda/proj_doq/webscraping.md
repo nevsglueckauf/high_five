@@ -15,8 +15,8 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
     -  In Unkenntnis der indiv. Struktur des Dokumentes betreiben wir also <var>Reverse Engineering</var> und lernen:
         - <u>nicht</u> wohlgeformte Dokumente (welche keine Ausnahme sind) legen Parser "auf die Nase"
             - hier können Tools wie [```HTML Tidy```](https://htmltidy.net/) helfen
-        - Die Untersuchung der vorgefundenen (HTML-)Strukturen stellen uns vor das Problem: wir müssen diese untersuchen und können dann
-            - a. Geeignete <var>Selektoren</var> formulieren
+        - Die Untersuchung der vorgefundenen (HTML-) Strukturen stellen uns vor das Problem: wir müssen diese untersuchen und können dann
+            - a. Geeignete <var>Selektoren</var> formulieren (z.b:<kbd>div[class=foo_Bar<kbd>)
             - b. Reduntante oder nicht benötigte Informationen ausfiltern
 
 
