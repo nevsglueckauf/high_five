@@ -9,7 +9,7 @@ Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der 
 ### HTML-Parsing ist eklig
 
 Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> genannten) Suchraumes des Internets finden sich zahlreiche Probleme für das Informationsmanagement:
-- vornehmlich in Form von Abkömmlingen des SGML oder XML[^1] - vorranging HTML!
+- oft in Form von Markup-Sprachen[^1] - vorranging HTML!
 
 1. Man kommt mit "normalen" Tools wie (```sed/awk/grep/pcre/pyon re```) nicht weit(er)
 
@@ -36,17 +36,22 @@ sequenceDiagram
     participant Usr as User<br/>starte Script
     participant Py as Python<br/>lib requests
     participant SP as Python<br/> lib beautifulsoup4 
-    
     participant Webserver as Aldi-Website
     Usr->>Py:python3  aldi_scrape.py  
     rect rgb(161, 241, 168)
-            Py->>Aldi-Website: HTTP Request - GET  https://filialen.aldi-sued.de/nordrhein-westfalen
-            Aldi-Website->>Py: HTTP Response - Send (HTML)
+            Py->>Webserver: HTTP Request - GET  https://filialen.aldi-sued.de/nordrhein-westfalen
+            Webserver->>Py: HTTP Response - Send (HTML)
             Py-->SP: Parse HTML -> find Elemente: a[data-ya-track=todirectory]
             SP-->Py: Python Datenstruktur 
             note over Py, SP: (<class 'bs4.element.ResultSet'>)
     end
-    rect rgb(222, 86, 170)
+    
+
+```
+
+## Datenpersistenz
+```mermaid 
+rect rgb(222, 86, 170)
         loop 
             SP-->Py: for item in <class 'bs4.element.ResultSet'>
             Py-->Py: get item['href'] ...
@@ -63,14 +68,20 @@ sequenceDiagram
             Py->>RDBMS: or Database 
         end
     end    
-
 ```
-
-
 
 
 
 
 --- 
 
-[^1]: meist HTML auf SGML-Basis gebaut, oder auf Basis von XML, wie XHMTL oder schlimmmeres à la SOAP 
+[^1]: Meist Abkömmlinge des SGML oder XML: HTML, XHMTL oder schlimmmeres à la SOAP[^2]
+
+
+
+
+
+
+
+
+[^2]:  Gott sei bei uns! 
