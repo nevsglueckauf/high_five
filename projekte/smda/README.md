@@ -1,5 +1,18 @@
 # SMDA -  Supermarkt Datenanalyse
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Name des Packages ```smda```
 
 ## Hinweis zu PHP stuff
