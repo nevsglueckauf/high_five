@@ -22,7 +22,7 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - b. Reduntante oder nicht benötigte Informationen ausfiltern
 
 
-
+3. Exoten wie ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerenderte Websites wurden hierbei nicht betrachtet!
 
 
 ### Webscraping Beispiel Aldi Süd
@@ -44,6 +44,12 @@ sequenceDiagram
             Py-->SP: Parse HTML -> find Elemente: a[data-ya-track=todirectory]
             SP-->Py: Python Datenstruktur 
             note over Py, SP: (<class 'bs4.element.ResultSet'>)
+            rect rgb(222, 86, 170)
+            loop 
+                Ptython_Parser-->Py: for item in <class 'bs4.element.ResultSet'>
+                Py-->Py: get item['href'] ...
+            end
+    end
     end
     
 
@@ -53,12 +59,7 @@ sequenceDiagram
 ```mermaid 
 sequenceDiagram
     autonumber
-rect rgb(222, 86, 170)
-        loop 
-            SP-->Py: for item in <class 'bs4.element.ResultSet'>
-            Py-->Py: get item['href'] ...
-        end
-    end
+
     rect rgb(96, 98, 226)
         alt Persist(data)
             Py->>FileSystem: JSON 
@@ -77,7 +78,9 @@ rect rgb(222, 86, 170)
 
 --- 
 
-[^1]: Meist Abkömmlinge des SGML oder XML: HTML, XHMTL oder schlimmmeres à la SOAP[^2]
+[^1]: Meist Abkömmlinge des SGML oder XML: HTML, XHMTL oder schlimmmeres à la SOAP[^3]
+
+[^2]: ECMA-262 ist der Standard, in welchem Scriptsprache deren Ursprung Jacvascript ist (Typescript, JScript et al.) festgeschrieben sind
 
 
 
@@ -85,5 +88,4 @@ rect rgb(222, 86, 170)
 
 
 
-
-[^2]:  Gott sei bei uns! 
+[^3]:  Gott sei bei uns! 
