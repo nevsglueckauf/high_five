@@ -1,4 +1,4 @@
-# SMDA -  Supermarkt-Datenanalyse
+# SMDA -  Supermarkt Datenanalyse
 
 - Name des Packages ```smda```
 
@@ -10,3 +10,4 @@
 - public/          # DocRoot für DEV-Server
 
 implementieren einen PHP-DEV-Server __nur__ für Testzwecke
+

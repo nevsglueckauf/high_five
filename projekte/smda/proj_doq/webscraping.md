@@ -1,4 +1,34 @@
-# Webscraping Beispiel Aldi Süd
+# WebscrapingBeispiel Aldi Süd
+
+## Preface 
+
+Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der erhaltenen Responses, sondern das Parsen des erhaltenen Contents.
+
+
+
+### HTML-Parsing ist eklig
+
+Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> genannten) Suchraumes des Internets finden sich zahlreiche Probleme für das Informationsmanagement:
+- vornehmlich in Form von Abkömmlingen des SGML oder XML - vorranging HTML!
+
+1. Man kommt mit "normalen" Tools wie (``` sed/awk/grep```) nicht weit(er)
+
+2. Es benötigt der Hilfe eines sog. <var>Parser</var>s
+    -  In Unkenntnis der indiv. Struktur des Dokumentes betreiben wir also <var>Reverse Engineering</var> und lernen:
+        - <u>nicht</u> wohlgeformte Dokumente (welche keine Ausnahme sind) legen Parser "auf die Nase"
+            - hier können Tools wie ``` tidy``` helfen
+        - Die Untersuchung der vorgefundenen (HTML-)Strukturen stellen uns vor das Problem: wir müssen diese unteruschen und können dann
+            - a. Geeignete <var>Selektoren</var> formulieren
+            - b. Reduntante oder nicht benötigte Informationen ausfiltern
+
+
+
+
+
+### Webscraping Beispiel Aldi Süd
+
+
+
 
 ```mermaid
 sequenceDiagram
