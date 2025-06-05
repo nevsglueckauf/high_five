@@ -51,6 +51,8 @@ sequenceDiagram
 
 ## Datenpersistenz
 ```mermaid 
+sequenceDiagram
+    autonumber
 rect rgb(222, 86, 170)
         loop 
             SP-->Py: for item in <class 'bs4.element.ResultSet'>
