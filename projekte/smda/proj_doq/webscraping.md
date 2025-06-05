@@ -1,10 +1,8 @@
-# WebscrapingBeispiel Aldi Süd
+# Webscraping
 
 ## Preface 
 
 Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der erhaltenen Responses, sondern das Parsen des erhaltenen Contents.
-
-
 
 ### HTML-Parsing ist eklig
 
@@ -22,7 +20,7 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - b. Reduntante oder nicht benötigte Informationen ausfiltern
 
 
-3. Exoten wie ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerenderte Websites wurden hierbei nicht betrachtet!
+3. Exotischere Websites, deren Inhalt per ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerendert werden, wurden hierbei nicht betrachtet
 
 
 ### Webscraping Beispiel Aldi Süd
