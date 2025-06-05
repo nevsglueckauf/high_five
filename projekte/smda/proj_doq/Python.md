@@ -2,7 +2,7 @@
 
 ## Anwendungsbeispiel
 ```python
-from parse import Parser as Parser
+from parse import Parser as Parser              
 from scraper import Scraper as Scraper
 
 scraper = Scraper()
@@ -43,7 +43,10 @@ class Scraper:
 
     BSE_URI_ALDI = "https://filialen.aldi-sued.de/"
 
-    LST_NRW_ALSI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
+    LST_NRW_ALDI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
+    
+    BSE_URI_PENNY = "https://www.penny.de/marktsuche/"
+
 
     def prc_req(uri: str, mtd:str = "GET", dta: dict = {}, hds: dict = {}):
         """Prozessiert HTTP Request
@@ -99,10 +102,10 @@ class Scraper:
             one_dta = True
         i = 0
         for i, uri in enumerate(uris):
-            # d=dta[i]
-            # h=hds[i]
-            # rts.append(self.prc_req(uri,mtd, d, h))
-            print(uri + ' :: '+str(i))
+            d=dta[i]
+            h=hds[i]
+            rts.append(self.prc_req(uri,mtd, d, h))
+            #print(uri + ' :: '+str(i))
 
         return rts
 ```

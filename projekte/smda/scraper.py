@@ -10,7 +10,9 @@ class Scraper:
 
     BSE_URI_ALDI = "https://filialen.aldi-sued.de/"
 
-    LST_NRW_ALSI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
+    LST_NRW_ALDI = "https://filialen.aldi-sued.de/nordrhein-westfalen"
+    
+    BSE_URI_PENNY = "https://www.penny.de/marktsuche/"
 
     def prc_req(self, uri:str, mtd:str = "GET", dta: dict = {}, hds: dict = {}):
         """Prozessiert HTTP Request
