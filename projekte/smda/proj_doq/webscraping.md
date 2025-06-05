@@ -17,7 +17,7 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - hier können Tools wie [```HTML Tidy```](https://htmltidy.net/) helfen
         - Die Untersuchung der vorgefundenen (HTML-) Strukturen stellen uns vor das Problem: wir müssen diese untersuchen und können dann
             - a. Geeignete <var>Selektoren</var> formulieren (z.b: <kbd>div[class=foo_Bar]</kbd>)
-            - b. Reduntante oder nicht benötigte Informationen ausfiltern
+            - b. Nicht benötigte Informationen ausfiltern
 
 
 3. Exotischere Websites, deren Inhalt per ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerendert werden, wurden hierbei nicht betrachtet
