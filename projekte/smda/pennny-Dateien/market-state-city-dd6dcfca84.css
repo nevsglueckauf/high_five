@@ -1,0 +1,37 @@
+.market-state-city{
+  background-color:hsl(var(--grey-stone));
+}
+@media (min-width:960px){
+  .market-state-city__headline,.market-state-city__list{
+    margin-inline:auto;
+    max-width:calc(83.4% + var(--gutter));
+  }
+}
+.market-state-city__headline{
+  color:hsl(var(--white));
+  margin-top:0;
+  text-align:center;
+  width:100%;
+}
+.market-state-city__list{
+  font-size:.9375rem;
+}
+@media (min-width:960px){
+  .market-state-city__list{
+    font-size:1.25rem;
+  }
+}
+.market-state-city__item{
+  min-width:50%;
+}
+@media (min-width:960px){
+  .market-state-city__item{
+    min-width:20%;
+  }
+}
+.market-state-city__link{
+  color:hsl(var(--white));
+  text-decoration-thickness:.0625rem;
+  text-underline-offset:.125rem;
+}
+/*# sourceMappingURL=market-state-city-dd6dcfca84.css.map */

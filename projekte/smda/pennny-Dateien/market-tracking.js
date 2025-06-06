@@ -1,0 +1,1 @@
+import{getLocalStorageMarketValue as t}from"./market-locator.DNe-jCdG.js";const a=()=>{const e=t();window.pageData||(window.pageData={}),e?window.pageData.pennyMarket={city:e.marketCity,country:"germany",id:e.wwIdent,postcode:e.marketZipCode,street:e.marketStreetWithHouseNumber}:window.pageData.pennyMarket={}};a();

@@ -25,6 +25,15 @@ result = parser.prs_penny(dta.text)
 ['Wismarsche Straße 152', '23936 Grevesmühlen']
 ```
 
+## Memory- Disk- Usage
+
+- Größe der HTTP-Response: 538.95 KB
+- Speicherverbrauch der (für uns hier) nutzbaren Daten:  459 BYTES 
+- 459 ./. 551884,80 Bytes
+- --> Payloadload < 1‰
+- --> Overhead > 99%
+    
+
 
 
 ```python

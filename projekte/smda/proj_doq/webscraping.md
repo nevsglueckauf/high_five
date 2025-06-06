@@ -20,7 +20,14 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - b. Nicht benötigte Informationen ausfiltern
 
 
-3. Exotischere Websites, deren Inhalt per ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerendert werden, wurden hierbei nicht betrachtet
+    - Das Verhältnis von Nutzdaten(Payload) zu Overhead kann extrem ungünsrtig sein:
+        - Größe der HTTP-Response: 538.95 KB
+        - Speicherverbrauch der (für uns hier) nutzbaren Daten:  459 BYTES 
+        - 459 ./. 551884,80 Bytes
+        - --> Payloadload < 1‰
+        - --> Overhead > 99%
+
+Hinweis:  Exotischere Websites, deren Inhalt per ECMA-Script[^2] via JSON-Blob und zig externer Ressourcen gerendert werden, wurden hierbei nicht betrachtet
 
 
 ### Webscraping Beispiel Aldi Süd
