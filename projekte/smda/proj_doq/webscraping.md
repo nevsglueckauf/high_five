@@ -84,7 +84,7 @@ sequenceDiagram
 
 --- 
 
-[^1]: Meist Abkömmlinge des SGML oder XML: HTML, XHMTL oder schlimmmeres à la SOAP[^3]
+[^1]: Meist Abkömmlinge des SGML oder XML: HTML, XHMTL oder schlimmmeres à la SOAP[^4]
 
 [^2]: ECMA-262 ist der Standard, in welchem Scriptsprache deren Ursprung [Javascript](https://en.wikipedia.org/wiki/JavaScript) ist (Typescript, JScript etc.) festgeschrieben sind
 
