@@ -4,6 +4,7 @@
 
 Webscraping meint nicht nur das Absenden von HTTP(s)-Requests und Speichern der erhaltenen Responses, sondern das Parsen des erhaltenen Contents.
 
+## TwIl;) [^3]
 ### HTML-Parsing ist eklig
 
 Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> genannten) Suchraumes des Internets finden sich zahlreiche Probleme für das Informationsmanagement:
@@ -20,7 +21,7 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - b. Nicht benötigte Informationen ausfiltern
 
 
-    - Das Verhältnis von Nutzdaten(Payload) zu Overhead kann extrem ungünstig sein:
+    - Das Verhältnis von Nutzdaten(Payload) zu Overhead <i>kann</I> __extrem__ ungünstig sein:
         - Größe der HTTP-Response: 538.95 KB
         - Speicherverbrauch der (für uns hier) nutzbaren Daten:  459 BYTES 
         - 459 ./. 551884,80 Bytes
@@ -87,10 +88,9 @@ sequenceDiagram
 
 [^2]: ECMA-262 ist der Standard, in welchem Scriptsprache deren Ursprung [Javascript](https://en.wikipedia.org/wiki/JavaScript) ist (Typescript, JScript etc.) festgeschrieben sind
 
+[^3]: This week I learned
+
+[^4]: Gott sei bei uns!
 
 
 
-
-
-
-[^3]:  Gott sei bei uns! 
