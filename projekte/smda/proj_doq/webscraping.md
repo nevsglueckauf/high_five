@@ -20,7 +20,7 @@ Im Bereich des von uns inspizierten Teilbereiches (ehemals <var> WWW </var> gena
             - b. Nicht benötigte Informationen ausfiltern
 
 
-    - Das Verhältnis von Nutzdaten(Payload) zu Overhead kann extrem ungünsrtig sein:
+    - Das Verhältnis von Nutzdaten(Payload) zu Overhead kann extrem ungünstig sein:
         - Größe der HTTP-Response: 538.95 KB
         - Speicherverbrauch der (für uns hier) nutzbaren Daten:  459 BYTES 
         - 459 ./. 551884,80 Bytes
