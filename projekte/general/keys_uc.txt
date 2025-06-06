@@ -1,0 +1,7 @@
+ U+2325 ⌥ 
+
+Apple Keyboard Key Symbols:
+
+    Command Key (⌘): U+2318
+    Option Key (⌥): U+2325
+    Shift Key (⇧): U+2312 

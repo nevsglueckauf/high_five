@@ -1,4 +1,3 @@
-import requests
 
 #
 # 'application/json, text/json'
